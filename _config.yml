@@ -72,7 +72,7 @@ theme: brutalist
 deploy:
   type: git
   repo: https://github.com/melaniehoff/melaniehoff.github.io.git
-  branch: gh-pages
+  branch: master
   message: deploytogit
 
 # rss
