@@ -4,9 +4,9 @@
   <subtitle>brutalist blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://mhfowler.github.io/notes-from-sfpc/"/>
+  <link href="https://melaniehoff.github.io/"/>
   <updated>2016-06-23T22:08:09.000Z</updated>
-  <id>http://mhfowler.github.io/notes-from-sfpc/</id>
+  <id>https://melaniehoff.github.io/</id>
   
   <author>
     <name>Max Fowler</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>wayback</title>
-    <link href="http://mhfowler.github.io/notes-from-sfpc/2016/06/20/wayback/"/>
-    <id>http://mhfowler.github.io/notes-from-sfpc/2016/06/20/wayback/</id>
+    <link href="https://melaniehoff.github.io/2016/06/20/wayback/"/>
+    <id>https://melaniehoff.github.io/2016/06/20/wayback/</id>
     <published>2016-06-21T01:47:33.000Z</published>
     <updated>2016-06-23T22:08:09.000Z</updated>
     
@@ -42,18 +42,17 @@
   
   <entry>
     <title>upstart</title>
-    <link href="http://mhfowler.github.io/notes-from-sfpc/2016/06/20/upstart/"/>
-    <id>http://mhfowler.github.io/notes-from-sfpc/2016/06/20/upstart/</id>
+    <link href="https://melaniehoff.github.io/2016/06/20/upstart/"/>
+    <id>https://melaniehoff.github.io/2016/06/20/upstart/</id>
     <published>2016-06-20T18:05:53.000Z</published>
     <updated>2016-06-23T22:08:09.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth/poems/upstart.html&quot;&gt;http://mhfowler.github.io/westbeth/poems/upstart.html&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth/poems/upstart.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://mhfowler.github.io/westbeth/poems/upstart.html&lt;/a&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth/poems/upstart.html&quot;&gt;http://mhfowler.github.io/westbeth/poems/upstart.html&lt;/a&gt;&lt;/p&gt;
-
+      &lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth/poems/upstart.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://mhfowler.github.io/westbeth/poems/u
     
     </summary>
     
@@ -62,8 +61,8 @@
   
   <entry>
     <title>bell labs</title>
-    <link href="http://mhfowler.github.io/notes-from-sfpc/2016/06/20/bell%20labs/"/>
-    <id>http://mhfowler.github.io/notes-from-sfpc/2016/06/20/bell labs/</id>
+    <link href="https://melaniehoff.github.io/2016/06/20/bell%20labs/"/>
+    <id>https://melaniehoff.github.io/2016/06/20/bell labs/</id>
     <published>2016-06-20T18:02:09.000Z</published>
     <updated>2016-06-23T22:08:09.000Z</updated>
     
@@ -92,17 +91,17 @@
   
   <entry>
     <title>start typing</title>
-    <link href="http://mhfowler.github.io/notes-from-sfpc/2016/06/20/start%20typing/"/>
-    <id>http://mhfowler.github.io/notes-from-sfpc/2016/06/20/start typing/</id>
+    <link href="https://melaniehoff.github.io/2016/06/20/start%20typing/"/>
+    <id>https://melaniehoff.github.io/2016/06/20/start typing/</id>
     <published>2016-06-20T17:53:56.000Z</published>
     <updated>2016-06-23T22:08:09.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth-processing/sketches/vera1/vera1.html&quot;&gt;http://mhfowler.github.io/westbeth-processing/sketches/vera1/vera1.html&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth-processing/sketches/vera1/vera1.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://mhfowler.github.io/westbeth-processing/sketches/vera1/vera1.html&lt;/a&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth-processing/sketches/vera1/vera1.html&quot;&gt;http://mhfowler.github.io/westbeth-processing/sketches/
+      &lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth-processing/sketches/vera1/vera1.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://mhfowler.github.i
     
     </summary>
     
@@ -111,8 +110,8 @@
   
   <entry>
     <title>yarn</title>
-    <link href="http://mhfowler.github.io/notes-from-sfpc/2016/06/20/yarn/"/>
-    <id>http://mhfowler.github.io/notes-from-sfpc/2016/06/20/yarn/</id>
+    <link href="https://melaniehoff.github.io/2016/06/20/yarn/"/>
+    <id>https://melaniehoff.github.io/2016/06/20/yarn/</id>
     <published>2016-06-20T17:30:53.000Z</published>
     <updated>2016-06-23T22:08:09.000Z</updated>
     
@@ -131,8 +130,8 @@
   
   <entry>
     <title>goodmorning</title>
-    <link href="http://mhfowler.github.io/notes-from-sfpc/2016/06/10/goodmorning/"/>
-    <id>http://mhfowler.github.io/notes-from-sfpc/2016/06/10/goodmorning/</id>
+    <link href="https://melaniehoff.github.io/2016/06/10/goodmorning/"/>
+    <id>https://melaniehoff.github.io/2016/06/10/goodmorning/</id>
     <published>2016-06-10T04:31:55.000Z</published>
     <updated>2016-06-23T22:08:09.000Z</updated>
     
