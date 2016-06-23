@@ -13,8 +13,8 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 #url: http://getparseltongue.com
-url: http://mhfowler.github.io/notes-from-sfpc/
-root: /notes-from-sfpc/
+url: https://melaniehoff.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -71,7 +71,7 @@ theme: brutalist
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:mhfowler/notes-from-sfpc.git
+  repo: https://github.com/melaniehoff/melaniehoff.github.io.git
   branch: gh-pages
   message: deploytogit
 
