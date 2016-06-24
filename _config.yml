@@ -15,7 +15,7 @@ timezone:
 #url: http://getparseltongue.com
 url: https://melaniehoff.github.io/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
