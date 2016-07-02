@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo Demo</title>
-  <subtitle>brutalist blog</subtitle>
+  <title>MELANIE HOFF</title>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2016-07-02T22:06:50.000Z</updated>
+  <updated>2016-07-02T22:34:14.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -16,11 +16,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>kolache</title>
+    <link href="https://melaniehoff.github.io/kolache/"/>
+    <id>https://melaniehoff.github.io/kolache/</id>
+    <published>2016-07-02T22:32:57.000Z</published>
+    <updated>2016-07-02T22:34:14.000Z</updated>
+    
+    <content type="html">&lt;h3 id=&quot;YAY&quot;&gt;&lt;a href=&quot;#YAY&quot; class=&quot;headerlink&quot; title=&quot;YAY!&quot;&gt;&lt;/a&gt;YAY!&lt;/h3&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;YAY&quot;&gt;&lt;a href=&quot;#YAY&quot; class=&quot;headerlink&quot; title=&quot;YAY!&quot;&gt;&lt;/a&gt;YAY!&lt;/h3&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>7</title>
     <link href="https://melaniehoff.github.io/7/"/>
     <id>https://melaniehoff.github.io/7/</id>
     <published>2016-07-02T22:03:32.000Z</published>
-    <updated>2016-07-02T22:06:50.000Z</updated>
+    <updated>2016-07-02T22:24:43.000Z</updated>
     
     <content type="html">&lt;h3 id=&quot;bold-text&quot;&gt;&lt;a href=&quot;#bold-text&quot; class=&quot;headerlink&quot; title=&quot;bold text?&quot;&gt;&lt;/a&gt;bold text?&lt;/h3&gt;&lt;p&gt;77 &amp;mdash; 7799&lt;/p&gt;
 </content>
@@ -36,32 +54,11 @@
   </entry>
   
   <entry>
-    <title>wayback</title>
-    <link href="https://melaniehoff.github.io/wayback/"/>
-    <id>https://melaniehoff.github.io/wayback/</id>
-    <published>2016-06-21T01:47:33.000Z</published>
-    <updated>2016-06-23T23:35:41.000Z</updated>
-    
-    <content type="html">&lt;p&gt;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&lt;/p&gt;
-&lt;p&gt;Perhaps these dark blue letters and empty boxes reverberate my childhood to me&lt;br&gt;more deeply than if all the pages of the site remained.&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&lt;/p&gt;
-&lt;p&gt;Perhaps these dark blue letters and empty boxes reverberate my childhood to me&lt;br&gt;more deeply
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>upstart</title>
     <link href="https://melaniehoff.github.io/upstart/"/>
     <id>https://melaniehoff.github.io/upstart/</id>
-    <published>2016-06-20T18:05:53.000Z</published>
-    <updated>2016-06-23T22:08:09.000Z</updated>
+    <published>2016-06-23T22:08:09.000Z</published>
+    <updated>2016-07-02T22:24:30.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth/poems/upstart.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://mhfowler.github.io/westbeth/poems/upstart.html&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -79,8 +76,8 @@
     <title>bell labs</title>
     <link href="https://melaniehoff.github.io/bell%20labs/"/>
     <id>https://melaniehoff.github.io/bell labs/</id>
-    <published>2016-06-20T18:02:09.000Z</published>
-    <updated>2016-06-23T22:08:09.000Z</updated>
+    <published>2016-06-23T22:08:09.000Z</published>
+    <updated>2016-07-02T22:24:33.000Z</updated>
     
     <content type="html">&lt;h3 id=&quot;Notes-From-“interactive-art-and-embodiment”-by-Nathaniel-Stern&quot;&gt;&lt;a href=&quot;#Notes-From-“interactive-art-and-embodiment”-by-Nathaniel-Stern&quot; class=&quot;headerlink&quot; title=&quot;Notes From “interactive art and embodiment” by Nathaniel Stern&quot;&gt;&lt;/a&gt;Notes From “interactive art and embodiment” by Nathaniel Stern&lt;/h3&gt;&lt;p&gt;perception is more than meets the eye &amp;mdash; even with what we traditionally think of as vision&lt;/p&gt;
 &lt;p&gt;Body and image mediate one another, and the locus of perception is between, and of, the two&lt;/p&gt;
@@ -99,45 +96,6 @@
     <summary type="html">
     
       &lt;h3 id=&quot;Notes-From-“interactive-art-and-embodiment”-by-Nathaniel-Stern&quot;&gt;&lt;a href=&quot;#Notes-From-“interactive-art-and-embodiment”-by-Nathaniel-S
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>start typing</title>
-    <link href="https://melaniehoff.github.io/start%20typing/"/>
-    <id>https://melaniehoff.github.io/start typing/</id>
-    <published>2016-06-20T17:53:56.000Z</published>
-    <updated>2016-06-23T22:08:09.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth-processing/sketches/vera1/vera1.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://mhfowler.github.io/westbeth-processing/sketches/vera1/vera1.html&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://mhfowler.github.io/westbeth-processing/sketches/vera1/vera1.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://mhfowler.github.i
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>goodmorning</title>
-    <link href="https://melaniehoff.github.io/goodmorning/"/>
-    <id>https://melaniehoff.github.io/goodmorning/</id>
-    <published>2016-06-10T04:31:55.000Z</published>
-    <updated>2016-06-23T22:08:09.000Z</updated>
-    
-    <content type="html">&lt;p&gt;computers are illusion machines&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;computers are illusion machines&lt;/p&gt;
-
     
     </summary>
     
