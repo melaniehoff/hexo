@@ -3,16 +3,17 @@
 body {
     padding: 20px;
     padding-left:40px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: ‘Merriweather’, Georgia, serif;
+
 }
 
 
-.blog-footer {
+/*.blog-footer {
     width: 100%;
     border-top: 1px solid gray;
     margin-top: 50px;
     padding-top: 10px;
-}
+}*/
 
 .sidebar {
     float:left;
