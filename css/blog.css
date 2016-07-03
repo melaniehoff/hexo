@@ -3,7 +3,7 @@
 body {
     padding: 20px;
     padding-left:40px;
-    font-family: ‘Merriweather’, Georgia, serif;
+    font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -17,7 +17,7 @@ body {
 
 .sidebar {
     float:left;
-    width: 80px;
+    width: 99px;
 }
 
 .main-section {
@@ -40,6 +40,7 @@ body {
 .navlink {
     width: 100%;
     display:block;
+    margin-top: 7px;
 }
 
 .blog-post {
