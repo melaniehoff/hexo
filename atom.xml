@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2016-07-04T23:22:11.000Z</updated>
+  <updated>2016-07-05T21:48:45.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -16,20 +16,89 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>PEPTO BISMUTH</title>
-    <link href="https://melaniehoff.github.io/PEPTO-BISMUTH/"/>
-    <id>https://melaniehoff.github.io/PEPTO-BISMUTH/</id>
-    <published>2016-07-04T00:32:21.000Z</published>
-    <updated>2016-07-04T23:22:11.000Z</updated>
+    <title>BODEGA TIME MACHINE</title>
+    <link href="https://melaniehoff.github.io/BODEGA-TIME-MACHINE/"/>
+    <id>https://melaniehoff.github.io/BODEGA-TIME-MACHINE/</id>
+    <published>2016-07-05T21:23:37.000Z</published>
+    <updated>2016-07-05T21:48:45.000Z</updated>
     
-    <content type="html">&lt;p&gt;The process of chemically isolating bismuth from Pepto Bismol&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/52834485?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;800&quot; height=&quot;450&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/r23M1oX.jpg&quot; style=&quot;width: 800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/FAs7zg4.jpg&quot; style=&quot;width: 800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/NRJyxgb.jpg&quot; style=&quot;width: 800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/fyKMRi7.jpg&quot; style=&quot;width: 800px;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;!-- //////////////+centered+////////////// --&gt;
+&lt;style&gt;
+.main-section{
+    display: flex;
+    justify-content: center;
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
+}
+&lt;/style&gt;
+
+&lt;!-- home button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;!-- ///////////////////////////////////// --&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;The process of chemically isolating bismuth from Pepto Bismol&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/52834485?title=0&amp;byline=
+      &lt;!-- //////////////+centered+////////////// --&gt;
+&lt;style&gt;
+.main-section{
+    display: flex;
+    justify-content: center;
+    float: none;
+    
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PEPTO BISMUTH</title>
+    <link href="https://melaniehoff.github.io/PEPTO-BISMUTH/"/>
+    <id>https://melaniehoff.github.io/PEPTO-BISMUTH/</id>
+    <published>2016-07-04T00:32:21.000Z</published>
+    <updated>2016-07-05T22:53:49.000Z</updated>
+    
+    <content type="html">&lt;center&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/52834485?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;The process of chemically isolating bismuth from Pepto Bismol&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/r23M1oX.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/FAs7zg4.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/NRJyxgb.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/fyKMRi7.jpg&quot;&gt;&lt;br&gt;&lt;/center&gt;
+
+
+
+
+&lt;!-- //////////////+centered+////////////// --&gt;
+&lt;style&gt;
+.main-section{
+    display: flex;
+    justify-content: center;
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
+}
+&lt;/style&gt;
+
+&lt;!-- home button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;!-- ///////////////////////////////////// --&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;center&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/52834485?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webk
     
     </summary>
     
@@ -41,14 +110,41 @@
     <link href="https://melaniehoff.github.io/PORN-FOR-THE-BLIND/"/>
     <id>https://melaniehoff.github.io/PORN-FOR-THE-BLIND/</id>
     <published>2016-07-04T00:13:24.000Z</published>
-    <updated>2016-07-04T20:49:28.000Z</updated>
+    <updated>2016-07-05T22:06:14.000Z</updated>
     
-    <content type="html">&lt;iframe src=&quot;https://player.vimeo.com/video/125171722?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;800&quot; height=&quot;450&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;
+    <content type="html">&lt;iframe src=&quot;https://player.vimeo.com/video/125171722?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;563&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+&lt;!-- //////////////+centered+////////////// --&gt;
+&lt;style&gt;
+.main-section{
+    display: flex;
+    justify-content: center;
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
+}
+&lt;/style&gt;
+
+&lt;!-- home button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;!-- ///////////////////////////////////// --&gt;
 </content>
     
     <summary type="html">
     
-      &lt;iframe src=&quot;https://player.vimeo.com/video/125171722?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;800&quot; height=&quot;450&quot; frameborder=&quot;0&quot; webkitallowfulls
+      &lt;iframe src=&quot;https://player.vimeo.com/video/125171722?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;563&quot; frameborder=&quot;0&quot; webkitallowfull
     
     </summary>
     
@@ -60,23 +156,47 @@
     <link href="https://melaniehoff.github.io/15-000-VOLTS/"/>
     <id>https://melaniehoff.github.io/15-000-VOLTS/</id>
     <published>2016-07-04T00:13:10.000Z</published>
-    <updated>2016-07-04T21:41:55.000Z</updated>
+    <updated>2016-07-05T22:56:21.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/60814695?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;800&quot; height=&quot;450&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/192Aa1d.jpg&quot; style=&quot;width: 800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/60814695?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/192Aa1d.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/Y9Dja0E.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/MgegYFs.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/rwXmh3q.jpg&quot; style=&quot;width: 800px;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;- A collaboration guitar with Fender -&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/rwXmh3q.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;^ a collaboration guitar with fender &lt;/p&gt;
 &lt;!-- &lt;br&gt;
-&lt;img src=&quot;http://i.imgur.com/Y9Dja0E.jpg&quot; style=&quot;width: 800px;&quot;/&gt;
+&lt;img src=&quot;http://i.imgur.com/Y9Dja0E.jpg&quot;&gt;
 &lt;br&gt;
-&lt;img src=&quot;http://i.imgur.com/MgegYFs.jpg&quot; style=&quot;width: 800px;&quot;/&gt;
+&lt;img src=&quot;http://i.imgur.com/MgegYFs.jpg&quot;&gt;
  --&gt;
+&lt;!-- //////////////+centered+////////////// --&gt;
+&lt;style&gt;
+.main-section{
+    display: flex;
+    justify-content: center;
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
+}
+&lt;/style&gt;
+
+&lt;!-- home button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;!-- ///////////////////////////////////// --&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/60814695?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;800&quot; height=&quot;450&quot; frameborder=&quot;0&quot; webkitallowful
+      &lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/60814695?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfu
     
     </summary>
     
@@ -88,13 +208,37 @@
     <link href="https://melaniehoff.github.io/DECODELIA/"/>
     <id>https://melaniehoff.github.io/DECODELIA/</id>
     <published>2016-07-04T00:12:53.000Z</published>
-    <updated>2016-07-04T21:39:28.000Z</updated>
+    <updated>2016-07-05T22:59:03.000Z</updated>
     
-    <content type="html">&lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;800&quot; height=&quot;450&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;</content>
+    <content type="html">&lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;!-- //////////////+centered+////////////// --&gt;
+&lt;style&gt;
+.main-section{
+    display: flex;
+    justify-content: center;
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
+}
+&lt;/style&gt;
+
+&lt;!-- home button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;!-- ///////////////////////////////////// --&gt;</content>
     
     <summary type="html">
     
-      &lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;800&quot; height=&quot;450&quot; frameborder=&quot;0&quot; webkitallowfulls
+      &lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfull
     
     </summary>
     
@@ -106,21 +250,28 @@
     <link href="https://melaniehoff.github.io/SKY-VIEW/"/>
     <id>https://melaniehoff.github.io/SKY-VIEW/</id>
     <published>2016-07-04T00:12:37.000Z</published>
-    <updated>2016-07-05T19:45:22.000Z</updated>
+    <updated>2016-07-05T23:24:24.000Z</updated>
     
     <content type="html">&lt;script&gt;
 
-window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
+&lt;p&gt;window.open(‘&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot;&gt;https://melaniehoff.github.io/skyview/&lt;/a&gt;‘, ‘_blank’);&lt;/p&gt;
+&lt;p&gt;&lt;/script&gt;&lt;p&gt;&lt;/p&gt;
+&lt;center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/IvkSXlZ.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;Sky View gets your current location and displays the sky above you.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;460&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/lpP1yvu.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;^ Glitch above the round fountain in Washington Square Park&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;- MIRROR TO THE SKY -&lt;br&gt;&lt;/center&gt;
 
-&lt;/script&gt;</content>
+&lt;!-- //////////////+centered+////////////// --&gt;
+&lt;!-- home button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;!-- ///////////////////////////////////// --&gt;
+</content>
     
     <summary type="html">
     
       &lt;script&gt;
 
-window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
-
-&lt;/script&gt;
+&lt;p&gt;window.open(‘&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot;&gt;https://melaniehoff.github.io/skyview/&lt;/a&gt;‘, ‘_blank’);&lt;/p&gt;
+&lt;p&gt;&lt;/
     
     </summary>
     
