@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2016-07-06T19:42:30.000Z</updated>
+  <updated>2016-07-06T19:36:04.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -14,48 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>contact</title>
-    <link href="https://melaniehoff.github.io/contact/"/>
-    <id>https://melaniehoff.github.io/contact/</id>
-    <published>2016-07-06T19:40:59.000Z</published>
-    <updated>2016-07-06T19:42:30.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hoffmelanie@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://artdelicorp.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;artdelicorp.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/Melanie_Hoff&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;twitter.com/Melanie_Hoff&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/melanieh0ff/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;instagram.com/melanieh0ff&lt;/a&gt;&lt;/p&gt;
-&lt;!-- //////////////+centered+////////////// --&gt;
-&lt;!-- main section for when post is next to sidebar --&gt;
-&lt;style&gt;
-.main-section {
-    display: flex;
-    justify-content: center;
-    float: left;
-    margin-left: 10px;
-    max-width: 70%;
-    width: 100%;
-}
-
-&lt;/style&gt;
-
-&lt;!-- home button --&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
-
-&lt;!-- ///////////////////////////////////// --&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hoffmelanie@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://ar
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>BODEGA TIME MACHINE</title>
