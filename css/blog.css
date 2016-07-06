@@ -4,6 +4,8 @@ body {
     padding: 20px;
     padding-left:40px;
     font-family: 'Cormorant Infant', serif;
+    font-size: 1em;
+
 /*    font-family: 'Open Sans', sans-serif;*/
 
 }
@@ -16,9 +18,10 @@ body {
     padding-top: 10px;
 }*/
 
+
 .sidebar {
     float:left;
-    width: 150px;
+    width: 170px;
 }
 
 .main-section {
@@ -46,6 +49,7 @@ body {
     display:block;
     margin-top: 9px;
     font-size: .8em;
+
 }
 
 .blog-post {
