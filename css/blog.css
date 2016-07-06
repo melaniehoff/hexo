@@ -18,7 +18,7 @@ body {
 
 .sidebar {
     float:left;
-    width: 200px;
+    width: 150px;
 }
 
 .main-section {
@@ -79,4 +79,10 @@ a {
         margin-left: 0px;
         width: 100%;
     }
+    .sidebar {
+    padding-left: 0px;
+    display:none;
+
+    }
+    
 
