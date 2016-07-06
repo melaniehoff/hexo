@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2016-07-06T20:12:17.000Z</updated>
+  <updated>2016-07-06T22:37:57.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -14,6 +14,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DOPPELCAM</title>
+    <link href="https://melaniehoff.github.io/DOPPELCAM/"/>
+    <id>https://melaniehoff.github.io/DOPPELCAM/</id>
+    <published>2016-07-06T22:34:41.000Z</published>
+    <updated>2016-07-06T22:37:57.000Z</updated>
+    
+    <content type="html">&lt;script&gt;
+window.open(&#39;https://doppel.camera&#39;, &#39;_blank&#39;);
+&lt;/script&gt;
+
+&lt;center&gt;
+
+
+
+
+&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
+&lt;style&gt;
+.main-section {
+    display: flex;
+    justify-content: center;
+    float: left;
+    margin-left: 10px;
+    max-width: 70%;
+    width: 100%;
+}
+
+&lt;/style&gt;
+
+&lt;!-- home button --&gt;
+&lt;!-- &lt;div class=&quot;blog-header&quot;&gt;
+    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&lt;&lt;/u&gt;&lt;/a&gt;
+&lt;/div&gt; --&gt;
+&lt;!-- ///////////////////////////////////// --&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;script&gt;
+window.open(&#39;https://doppel.camera&#39;, &#39;_blank&#39;);
+&lt;/script&gt;
+
+&lt;center&gt;
+
+
+
+
+&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+//////////
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>contact</title>
@@ -62,7 +116,7 @@
     <link href="https://melaniehoff.github.io/BODEGA-TIME-MACHINE/"/>
     <id>https://melaniehoff.github.io/BODEGA-TIME-MACHINE/</id>
     <published>2016-07-05T21:23:37.000Z</published>
-    <updated>2016-07-06T19:36:04.000Z</updated>
+    <updated>2016-07-06T22:33:02.000Z</updated>
     
     <content type="html">&lt;script&gt;
 //window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
@@ -111,7 +165,7 @@
     <link href="https://melaniehoff.github.io/PEPTO-BISMUTH/"/>
     <id>https://melaniehoff.github.io/PEPTO-BISMUTH/</id>
     <published>2016-07-04T00:32:21.000Z</published>
-    <updated>2016-07-06T20:25:22.000Z</updated>
+    <updated>2016-07-06T22:33:19.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/52834485?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;The process of chemically isolating bismuth from Pepto Bismol&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/r23M1oX.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/FAs7zg4.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/NRJyxgb.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/fyKMRi7.jpg&quot;&gt;&lt;/p&gt;
 &lt;!-- //////////////+centered+////////////// --&gt;
@@ -150,7 +204,7 @@
     <link href="https://melaniehoff.github.io/PORN-FOR-THE-BLIND/"/>
     <id>https://melaniehoff.github.io/PORN-FOR-THE-BLIND/</id>
     <published>2016-07-04T00:13:24.000Z</published>
-    <updated>2016-07-06T02:29:39.000Z</updated>
+    <updated>2016-07-06T22:32:48.000Z</updated>
     
     <content type="html">&lt;iframe src=&quot;https://player.vimeo.com/video/125171722?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;563&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -195,7 +249,7 @@
     <link href="https://melaniehoff.github.io/15-000-VOLTS/"/>
     <id>https://melaniehoff.github.io/15-000-VOLTS/</id>
     <published>2016-07-04T00:13:10.000Z</published>
-    <updated>2016-07-06T14:56:47.000Z</updated>
+    <updated>2016-07-06T22:33:57.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/60814695?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/192Aa1d.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -246,7 +300,7 @@
     <link href="https://melaniehoff.github.io/DECODELIA/"/>
     <id>https://melaniehoff.github.io/DECODELIA/</id>
     <published>2016-07-04T00:12:53.000Z</published>
-    <updated>2016-07-06T22:26:29.000Z</updated>
+    <updated>2016-07-06T22:38:32.000Z</updated>
     
     <content type="html">&lt;!-- &lt;body background=&quot;http://i.imgur.com/UcazPoW.jpg&quot;&gt; --&gt;
 &lt;body background=&quot;http://i.imgur.com/jQ9JLEw.jpg&quot;&gt;
@@ -255,9 +309,9 @@
 &lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/WKPQufi.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/yckGxmG.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;&lt;font size=&quot;10&quot;&gt;&lt;u&gt;&lt;br&gt;    &lt;a href=&quot;https://chrome.google.com/webstore/detail/decodelia/pjcejfcndkbnepkljbhbibkfameoelec&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;download here&lt;/a&gt;&lt;br&gt;&lt;/u&gt;&lt;/font&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- &lt;br&gt;&lt;br&gt;
-![](http://i.imgur.com/CRLzils.png) --&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s31.postimg.org/i6m92w9ij/decodelia_porn03.gif&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/EEi28aN.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/WKPQufi.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/yckGxmG.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;!-- &lt;br&gt;&lt;br&gt;
+![](http://i.imgur.com/CRLzils.png) --&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s31.postimg.org/i6m92w9ij/decodelia_porn03.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;font size=&quot;10&quot;&gt;&lt;u&gt;&lt;br&gt;    &lt;a href=&quot;https://chrome.google.com/webstore/detail/decodelia/pjcejfcndkbnepkljbhbibkfameoelec&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;download here&lt;/a&gt;&lt;br&gt;&lt;/u&gt;&lt;/font&gt;&lt;/center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/EEi28aN.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
 .main-section{
@@ -297,7 +351,7 @@
     <link href="https://melaniehoff.github.io/SKY-VIEW/"/>
     <id>https://melaniehoff.github.io/SKY-VIEW/</id>
     <published>2016-07-04T00:12:37.000Z</published>
-    <updated>2016-07-06T15:38:09.000Z</updated>
+    <updated>2016-07-06T22:32:37.000Z</updated>
     
     <content type="html">&lt;script&gt;
 
