@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2016-07-05T23:36:22.000Z</updated>
+  <updated>2016-07-06T02:35:54.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -16,11 +16,64 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>bio</title>
+    <link href="https://melaniehoff.github.io/bio/"/>
+    <id>https://melaniehoff.github.io/bio/</id>
+    <published>2016-07-06T02:35:01.000Z</published>
+    <updated>2016-07-06T02:35:54.000Z</updated>
+    
+    <content type="html">&lt;center&gt;
+
+
+
+
+&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
+&lt;style&gt;
+.main-section{
+    display: flex;
+    justify-content: center;
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
+}
+&lt;/style&gt;
+
+&lt;!-- home button --&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;!-- ///////////////////////////////////// --&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;center&gt;
+
+
+
+
+&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
+&lt;style&gt;
+.main-section{
+    display: flex;
+    justif
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>BODEGA TIME MACHINE</title>
     <link href="https://melaniehoff.github.io/BODEGA-TIME-MACHINE/"/>
     <id>https://melaniehoff.github.io/BODEGA-TIME-MACHINE/</id>
     <published>2016-07-05T21:23:37.000Z</published>
-    <updated>2016-07-05T23:36:22.000Z</updated>
+    <updated>2016-07-06T02:29:23.000Z</updated>
     
     <content type="html">&lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
@@ -40,8 +93,7 @@
 &lt;/style&gt;
 
 &lt;!-- home button --&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
@@ -66,7 +118,7 @@
     <link href="https://melaniehoff.github.io/PEPTO-BISMUTH/"/>
     <id>https://melaniehoff.github.io/PEPTO-BISMUTH/</id>
     <published>2016-07-04T00:32:21.000Z</published>
-    <updated>2016-07-05T23:36:13.000Z</updated>
+    <updated>2016-07-06T02:29:35.000Z</updated>
     
     <content type="html">&lt;center&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/52834485?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;The process of chemically isolating bismuth from Pepto Bismol&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/r23M1oX.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/FAs7zg4.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/NRJyxgb.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/fyKMRi7.jpg&quot;&gt;&lt;br&gt;&lt;/center&gt;
 
@@ -91,8 +143,7 @@
 &lt;/style&gt;
 
 &lt;!-- home button --&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;</content>
     
@@ -110,7 +161,7 @@
     <link href="https://melaniehoff.github.io/PORN-FOR-THE-BLIND/"/>
     <id>https://melaniehoff.github.io/PORN-FOR-THE-BLIND/</id>
     <published>2016-07-04T00:13:24.000Z</published>
-    <updated>2016-07-05T23:35:59.000Z</updated>
+    <updated>2016-07-06T02:29:39.000Z</updated>
     
     <content type="html">&lt;iframe src=&quot;https://player.vimeo.com/video/125171722?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;563&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -136,8 +187,7 @@
 &lt;/style&gt;
 
 &lt;!-- home button --&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
@@ -156,7 +206,7 @@
     <link href="https://melaniehoff.github.io/15-000-VOLTS/"/>
     <id>https://melaniehoff.github.io/15-000-VOLTS/</id>
     <published>2016-07-04T00:13:10.000Z</published>
-    <updated>2016-07-05T23:36:26.000Z</updated>
+    <updated>2016-07-06T02:29:09.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/60814695?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/192Aa1d.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -188,8 +238,7 @@
 &lt;/style&gt;
 
 &lt;!-- home button --&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
@@ -208,7 +257,7 @@
     <link href="https://melaniehoff.github.io/DECODELIA/"/>
     <id>https://melaniehoff.github.io/DECODELIA/</id>
     <published>2016-07-04T00:12:53.000Z</published>
-    <updated>2016-07-05T23:36:18.000Z</updated>
+    <updated>2016-07-06T02:29:30.000Z</updated>
     
     <content type="html">&lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -231,8 +280,7 @@
 &lt;/style&gt;
 
 &lt;!-- home button --&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;</content>
     
@@ -250,7 +298,7 @@
     <link href="https://melaniehoff.github.io/SKY-VIEW/"/>
     <id>https://melaniehoff.github.io/SKY-VIEW/</id>
     <published>2016-07-04T00:12:37.000Z</published>
-    <updated>2016-07-05T23:35:52.000Z</updated>
+    <updated>2016-07-06T02:29:44.000Z</updated>
     
     <content type="html">&lt;script&gt;
 
@@ -258,12 +306,11 @@ window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
 
 &lt;/script&gt;
 
-&lt;center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/IvkSXlZ.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;Sky View gets your current location and displays the sky above you.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;460&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/lpP1yvu.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;^ Glitch above the round fountain in Washington Square Park&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;- MIRROR TO THE SKY -&lt;br&gt;&lt;/center&gt;
+&lt;center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/IvkSXlZ.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;color:lightblue&quot;&gt;&lt;u&gt;Sky View&lt;/u&gt;&lt;/a&gt; gets your current location and displays the sky above you.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;460&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/lpP1yvu.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;^ Glitch above the round fountain in Washington Square Park&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;- MIRROR TO THE SKY -&lt;br&gt;&lt;/center&gt;
 
 &lt;!-- //////////////+centered+////////////// --&gt;
 &lt;!-- home button --&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
