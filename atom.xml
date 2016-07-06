@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2016-07-06T15:49:00.000Z</updated>
+  <updated>2016-07-06T19:42:30.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -16,24 +16,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>bio</title>
-    <link href="https://melaniehoff.github.io/bio/"/>
-    <id>https://melaniehoff.github.io/bio/</id>
-    <published>2016-07-06T02:35:01.000Z</published>
-    <updated>2016-07-06T15:49:00.000Z</updated>
+    <title>contact</title>
+    <link href="https://melaniehoff.github.io/contact/"/>
+    <id>https://melaniehoff.github.io/contact/</id>
+    <published>2016-07-06T19:40:59.000Z</published>
+    <updated>2016-07-06T19:42:30.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hoffmelanie@gmail.com&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hoffmelanie@gmail.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://artdelicorp.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;artdelicorp.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/Melanie_Hoff&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;twitter.com/Melanie_Hoff&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.instagram.com/melanieh0ff/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;instagram.com/melanieh0ff&lt;/a&gt;&lt;/p&gt;
 &lt;!-- //////////////+centered+////////////// --&gt;
+&lt;!-- main section for when post is next to sidebar --&gt;
 &lt;style&gt;
-.main-section{
+.main-section {
     display: flex;
     justify-content: center;
-    float: none;
-    margin-left: 0;
-    max-width: 100%;
+    float: left;
+    margin-left: 10px;
+    max-width: 70%;
     width: 100%;
 }
 
@@ -48,8 +49,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hoffmelanie@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://artdelicorp.com&quot; t
+      &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hoffmelanie@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ar
     
     </summary>
     
@@ -61,18 +62,28 @@
     <link href="https://melaniehoff.github.io/BODEGA-TIME-MACHINE/"/>
     <id>https://melaniehoff.github.io/BODEGA-TIME-MACHINE/</id>
     <published>2016-07-05T21:23:37.000Z</published>
-    <updated>2016-07-06T19:23:56.000Z</updated>
+    <updated>2016-07-06T19:36:04.000Z</updated>
     
-    <content type="html">&lt;!-- //////////////+centered+////////////// --&gt;
+    <content type="html">&lt;script&gt;
+//window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
+&lt;/script&gt;
+
+&lt;iframe src=&quot;http://artdelicorp.com/Homework/bodega_timemachine/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px&quot; width=&quot;800px&quot;&gt;&lt;/iframe&gt;
+
+
+
+&lt;!-- //////////////+centered+////////////// --&gt;
+&lt;!-- main section for when post is next to sidebar --&gt;
 &lt;style&gt;
-.main-section{
+.main-section {
     display: flex;
     justify-content: center;
-    float: none;
-    margin-left: 0;
-    max-width: 100%;
+    float: left;
+    margin-left: 10px;
+    max-width: 70%;
     width: 100%;
 }
+
 
 &lt;/style&gt;
 
@@ -84,13 +95,11 @@
     
     <summary type="html">
     
-      &lt;!-- //////////////+centered+////////////// --&gt;
-&lt;style&gt;
-.main-section{
-    display: flex;
-    justify-content: center;
-    float: none;
-    
+      &lt;script&gt;
+//window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
+&lt;/script&gt;
+
+&lt;iframe src=&quot;http://artdelicorp.com/Homework/bodega_t
     
     </summary>
     
