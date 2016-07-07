@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2016-07-06T22:37:57.000Z</updated>
+  <updated>2016-07-07T02:30:25.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -20,49 +20,47 @@
     <link href="https://melaniehoff.github.io/DOPPELCAM/"/>
     <id>https://melaniehoff.github.io/DOPPELCAM/</id>
     <published>2016-07-06T22:34:41.000Z</published>
-    <updated>2016-07-06T22:37:57.000Z</updated>
+    <updated>2016-07-07T02:30:25.000Z</updated>
     
-    <content type="html">&lt;script&gt;
-window.open(&#39;https://doppel.camera&#39;, &#39;_blank&#39;);
-&lt;/script&gt;
-
-&lt;center&gt;
+    <content type="html">&lt;center&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img border=&quot;0&quot; alt=&quot;doppelcam&quot; src=&quot;https://s32.postimg.org/m27lsr2dx/0000.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; style=&quot;color:#5B7B9D&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;Doppelcam&lt;/u&gt;&lt;/a&gt; is a visually-similar camera in the form of&lt;br&gt;a website and ios app.&lt;br&gt;It is a tool for decontextualizing your surroundings&lt;br&gt;and glimpsing the uncanny valley.&lt;br&gt;&lt;br&gt;A photo taken with Doppelcam&lt;br&gt;is replaced by an image pulled from the internet&lt;br&gt;that is similar to the one just taken in pixel-by-pixel value.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;A project by Melanie Hoff and Dhruv Mehrotra&lt;br&gt;&lt;/a&gt;&lt;/center&gt;
 
 
 
 
-&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
+
+
+&lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
+img, iframe {
+    width: 400px;
+    max-width: 100%;
+}
 .main-section {
     display: flex;
     justify-content: center;
-    float: left;
+    float: none;
     margin-left: 10px;
-    max-width: 70%;
+    max-width: 100%;
     width: 100%;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
 }
 
 &lt;/style&gt;
 
 &lt;!-- home button --&gt;
-&lt;!-- &lt;div class=&quot;blog-header&quot;&gt;
-    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&lt;&lt;/u&gt;&lt;/a&gt;
-&lt;/div&gt; --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
     
     <summary type="html">
     
-      &lt;script&gt;
-window.open(&#39;https://doppel.camera&#39;, &#39;_blank&#39;);
-&lt;/script&gt;
-
-&lt;center&gt;
-
-
-
-
-&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+//////////
+      &lt;center&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img border=&quot;0&quot; alt=&quot;doppelcam&quot; src=&quot;https://s32.postimg.org/
     
     </summary>
     
