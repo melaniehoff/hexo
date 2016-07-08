@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2016-07-08T22:23:07.000Z</updated>
+  <updated>2016-07-08T23:01:49.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -20,38 +20,51 @@
     <link href="https://melaniehoff.github.io/FIRST-SCREEN-NAMES/"/>
     <id>https://melaniehoff.github.io/FIRST-SCREEN-NAMES/</id>
     <published>2016-07-08T20:18:26.000Z</published>
-    <updated>2016-07-08T22:23:07.000Z</updated>
+    <updated>2016-07-08T23:01:49.000Z</updated>
     
-    <content type="html">&lt;iframe src=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px&quot; width=&quot;800px&quot;&gt;&lt;/iframe&gt;
+    <content type="html">&lt;p&gt;&lt;body background=&quot;http://i.imgur.com/xkmY1lW.jpg&quot;&gt;&lt;/body&gt;&lt;/p&gt;
+&lt;center&gt;&lt;br&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:#358A7C&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;font size=&quot;x-large&quot;&gt;&lt;strong&gt;&lt;u&gt;FIRST SCREEN NAMES&lt;/u&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/M8qcv0h.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/B6bAzAq.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/cK90xpW.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:#888888&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;mobile version&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+
 &lt;!-- //////////////+centered+////////////// --&gt;
+&lt;!-- main section for when post is next to sidebar --&gt;
 &lt;style&gt;
-.main-section{
+.main-section {
     display: flex;
     justify-content: center;
     float: none;
-    margin-left: 0;
-    max-width: 100%;
+    margin-left: 10px;
+    max-width: 70%;
     width: 100%;
 }
+u {
+    background-color: white;
+}
+a {
+    font-size: 450%;
+}
+
 .sidebar {
-    padding-left: 0px;
-    display:none;
+    background-color: white;
 
 }
 &lt;/style&gt;
 
+
+
+
 &lt;!-- back button --&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#358A7C&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
     
     <summary type="html">
     
-      &lt;iframe src=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling
+      &lt;p&gt;&lt;body background=&quot;http://i.imgur.com/xkmY1lW.jpg&quot;&gt;&lt;/body&gt;&lt;/p&gt;
+&lt;center&gt;&lt;br&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES
     
     </summary>
     
@@ -63,7 +76,7 @@
     <link href="https://melaniehoff.github.io/DOPPELCAM/"/>
     <id>https://melaniehoff.github.io/DOPPELCAM/</id>
     <published>2016-07-06T22:34:41.000Z</published>
-    <updated>2016-07-08T21:33:54.000Z</updated>
+    <updated>2016-07-08T23:00:43.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;body style=&quot;background-color:black;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img border=&quot;0&quot; alt=&quot;doppelcam&quot; src=&quot;https://s32.postimg.org/trmf9yctx/doppelcam_app_icon_best00.png&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; style=&quot;color:#A1A1A1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;u&gt;Doppelcam&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; &lt;font color=&quot;white&quot;&gt;is a visually-similar camera in the form of&lt;br&gt;a website and ios app.&lt;br&gt;It is a tool for decontextualizing your surroundings&lt;br&gt;and glimpsing the uncanny valley.&lt;br&gt;&lt;br&gt;A photo taken with Doppelcam&lt;br&gt;is replaced by an image pulled from the internet&lt;br&gt;that is similar to the one just taken in pixel-by-pixel value.&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;https://twitter.com/doppelcam&quot; style=&quot;color:#A1A1A1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;u&gt;@doppelcam&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#A1A1A1&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;font color=&quot;white&quot;&gt; A project by Melanie Hoff and Dhruv Mehrotra &lt;font color=&quot;#A1A1A1&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
