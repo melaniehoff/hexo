@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2016-07-08T17:06:00.000Z</updated>
+  <updated>2016-07-08T20:32:08.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -16,21 +16,62 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>FIRST SCREEN NAMES</title>
+    <link href="https://melaniehoff.github.io/FIRST-SCREEN-NAMES/"/>
+    <id>https://melaniehoff.github.io/FIRST-SCREEN-NAMES/</id>
+    <published>2016-07-08T20:18:26.000Z</published>
+    <updated>2016-07-08T20:32:08.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:#1C9381&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;font size=&quot;15&quot;&gt;&lt;u&gt;&lt;strong&gt;FIRST SCREEN NAMES&lt;/strong&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- //////////////+centered+////////////// --&gt;
+&lt;!-- main section for when post is next to sidebar --&gt;
+&lt;style&gt;
+.main-section {
+    display: flex;
+    justify-content: center;
+    float: left;
+    margin-left: 10px;
+    max-width: 70%;
+    width: 100%;
+}
+
+&lt;/style&gt;
+
+
+
+
+&lt;!-- back button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;!-- ///////////////////////////////////// --&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:#1C9381&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;font size=&quot;15&quot;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>DOPPELCAM</title>
     <link href="https://melaniehoff.github.io/DOPPELCAM/"/>
     <id>https://melaniehoff.github.io/DOPPELCAM/</id>
     <published>2016-07-06T22:34:41.000Z</published>
-    <updated>2016-07-08T17:06:00.000Z</updated>
+    <updated>2016-07-08T20:51:07.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;body style=&quot;background-color:black;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img border=&quot;0&quot; alt=&quot;doppelcam&quot; src=&quot;https://s32.postimg.org/trmf9yctx/doppelcam_app_icon_best00.png&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; style=&quot;color:#A1A1A1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;Doppelcam&lt;/u&gt;&lt;/a&gt; &lt;font color=&quot;white&quot;&gt;is a visually-similar camera in the form of&lt;br&gt;a website and ios app.&lt;br&gt;It is a tool for decontextualizing your surroundings&lt;br&gt;and glimpsing the uncanny valley.&lt;br&gt;&lt;br&gt;A photo taken with Doppelcam&lt;br&gt;is replaced by an image pulled from the internet&lt;br&gt;that is similar to the one just taken in pixel-by-pixel value.&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;https://twitter.com/doppelcam&quot; style=&quot;color:#A1A1A1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;@doppelcam&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#A1A1A1&quot;&gt;-&lt;font color=&quot;white&quot;&gt; A project by Melanie Hoff and Dhruv Mehrotra &lt;font color=&quot;#A1A1A1&quot;&gt;-&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img border=&quot;0&quot; alt=&quot;doppelcam&quot; src=&quot;https://s32.postimg.org/trmf9yctx/doppelcam_app_icon_best00.png&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; style=&quot;color:#A1A1A1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;u&gt;Doppelcam&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; &lt;font color=&quot;white&quot;&gt;is a visually-similar camera in the form of&lt;br&gt;a website and ios app.&lt;br&gt;It is a tool for decontextualizing your surroundings&lt;br&gt;and glimpsing the uncanny valley.&lt;br&gt;&lt;br&gt;A photo taken with Doppelcam&lt;br&gt;is replaced by an image pulled from the internet&lt;br&gt;that is similar to the one just taken in pixel-by-pixel value.&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;https://twitter.com/doppelcam&quot; style=&quot;color:#A1A1A1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;u&gt;@doppelcam&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#A1A1A1&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;font color=&quot;white&quot;&gt; A project by Melanie Hoff and Dhruv Mehrotra &lt;font color=&quot;#A1A1A1&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
 body {
     padding: 20px;
     padding-left:40px;
     font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
-    font-size: 1em;
+    font-size: 1.3em;
 }
 
 img, iframe {
@@ -53,9 +94,10 @@ img, iframe {
 
 &lt;/style&gt;
 
-&lt;!-- home button --&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#A1A1A1&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;!-- back button --&gt;
+&lt;!-- back button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
@@ -75,7 +117,7 @@ img, iframe {
     <link href="https://melaniehoff.github.io/contact/"/>
     <id>https://melaniehoff.github.io/contact/</id>
     <published>2016-07-06T19:40:59.000Z</published>
-    <updated>2016-07-07T18:08:38.000Z</updated>
+    <updated>2016-07-08T19:42:26.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;hoffmelanie@gmail.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://artdelicorp.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;artdelicorp.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
@@ -97,7 +139,7 @@ img, iframe {
 
 &lt;!-- back button --&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
@@ -117,7 +159,7 @@ img, iframe {
     <link href="https://melaniehoff.github.io/BODEGA-TIME-MACHINE/"/>
     <id>https://melaniehoff.github.io/BODEGA-TIME-MACHINE/</id>
     <published>2016-07-05T21:23:37.000Z</published>
-    <updated>2016-07-07T18:08:43.000Z</updated>
+    <updated>2016-07-08T20:46:39.000Z</updated>
     
     <content type="html">&lt;iframe src=&quot;http://artdelicorp.com/Homework/bodega_timemachine/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px&quot; width=&quot;800px&quot;&gt;&lt;/iframe&gt;
 
@@ -125,6 +167,12 @@ img, iframe {
 &lt;!-- //////////////+centered+////////////// --&gt;
 &lt;!-- main section for when post is next to sidebar --&gt;
 &lt;style&gt;
+body {
+    padding: 20px;
+    padding-left:40px;
+    font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+}
 .main-section {
     display: flex;
     justify-content: center;
@@ -139,8 +187,9 @@ img, iframe {
 
 
 
-&lt;!-- home button --&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;!-- back button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
@@ -159,7 +208,7 @@ img, iframe {
     <link href="https://melaniehoff.github.io/PEPTO-BISMUTH/"/>
     <id>https://melaniehoff.github.io/PEPTO-BISMUTH/</id>
     <published>2016-07-04T00:32:21.000Z</published>
-    <updated>2016-07-06T22:33:19.000Z</updated>
+    <updated>2016-07-08T19:44:19.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/52834485?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;The process of chemically isolating bismuth from Pepto Bismol&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/r23M1oX.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/FAs7zg4.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/NRJyxgb.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/fyKMRi7.jpg&quot;&gt;&lt;/p&gt;
 &lt;!-- //////////////+centered+////////////// --&gt;
@@ -179,8 +228,9 @@ img, iframe {
 }
 &lt;/style&gt;
 
-&lt;!-- home button --&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;!-- back button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;</content>
     
@@ -198,7 +248,7 @@ img, iframe {
     <link href="https://melaniehoff.github.io/PORN-FOR-THE-BLIND/"/>
     <id>https://melaniehoff.github.io/PORN-FOR-THE-BLIND/</id>
     <published>2016-07-04T00:13:24.000Z</published>
-    <updated>2016-07-08T16:30:25.000Z</updated>
+    <updated>2016-07-08T19:43:28.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/125171722?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;563&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;font size=&quot;.5&quot; font=&quot;&quot; color=&quot;#FD88DB&quot;&gt;In collaboration with Horatio Baltz&lt;/font&gt;&lt;/p&gt;
@@ -232,7 +282,7 @@ body {
 &lt;/style&gt;
 
 &lt;!-- home button --&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#FD88DB&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#FD88DB&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 &lt;/body&gt;</content>
@@ -251,7 +301,7 @@ body {
     <link href="https://melaniehoff.github.io/15-000-VOLTS/"/>
     <id>https://melaniehoff.github.io/15-000-VOLTS/</id>
     <published>2016-07-04T00:13:10.000Z</published>
-    <updated>2016-07-06T22:33:57.000Z</updated>
+    <updated>2016-07-08T19:43:13.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/60814695?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/192Aa1d.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -282,8 +332,9 @@ body {
 }
 &lt;/style&gt;
 
-&lt;!-- home button --&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;!-- back button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
@@ -302,20 +353,31 @@ body {
     <link href="https://melaniehoff.github.io/DECODELIA/"/>
     <id>https://melaniehoff.github.io/DECODELIA/</id>
     <published>2016-07-04T00:12:53.000Z</published>
-    <updated>2016-07-06T22:38:32.000Z</updated>
+    <updated>2016-07-08T21:07:42.000Z</updated>
     
     <content type="html">&lt;!-- &lt;body background=&quot;http://i.imgur.com/UcazPoW.jpg&quot;&gt; --&gt;
 &lt;body background=&quot;http://i.imgur.com/jQ9JLEw.jpg&quot;&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://s32.postimg.org/d92ie5pat/image.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
 &lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/WKPQufi.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/yckGxmG.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;!-- &lt;br&gt;&lt;br&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s32.postimg.org/d92ie5pat/image.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/WKPQufi.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/yckGxmG.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;!-- &lt;br&gt;&lt;br&gt;
 ![](http://i.imgur.com/CRLzils.png) --&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s31.postimg.org/i6m92w9ij/decodelia_porn03.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;&lt;font size=&quot;10&quot;&gt;&lt;u&gt;&lt;br&gt;    &lt;a href=&quot;https://chrome.google.com/webstore/detail/decodelia/pjcejfcndkbnepkljbhbibkfameoelec&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;download here&lt;/a&gt;&lt;br&gt;&lt;/u&gt;&lt;/font&gt;&lt;/center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/EEi28aN.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/EEi28aN.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;center&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/decodelia/pjcejfcndkbnepkljbhbibkfameoelec&quot; style=&quot;color:red&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;font size=&quot;15&quot;&gt;&lt;u&gt;DOWNLOAD HERE&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;/center&gt;
+
+
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
+body {
+    padding: 20px;
+    padding-left:40px;
+    font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+}
 .main-section{
     display: flex;
     justify-content: center;
@@ -332,7 +394,7 @@ body {
 &lt;/style&gt;
 
 &lt;!-- home button --&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:black&quot;&gt;&lt;font size=&quot;10&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;font size=&quot;10&quot;&gt;&lt;u&gt;&lt;b&gt;&amp;lt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;&lt;/body&gt;</content>
     
@@ -341,7 +403,8 @@ body {
       &lt;!-- &lt;body background=&quot;http://i.imgur.com/UcazPoW.jpg&quot;&gt; --&gt;
 &lt;body background=&quot;http://i.imgur.com/jQ9JLEw.jpg&quot;&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://s32.pos
+
+&lt;iframe src=&quot;https://player
     
     </summary>
     
@@ -353,7 +416,7 @@ body {
     <link href="https://melaniehoff.github.io/SKY-VIEW/"/>
     <id>https://melaniehoff.github.io/SKY-VIEW/</id>
     <published>2016-07-04T00:12:37.000Z</published>
-    <updated>2016-07-06T22:32:37.000Z</updated>
+    <updated>2016-07-08T20:15:06.000Z</updated>
     
     <content type="html">&lt;script&gt;
 
@@ -363,9 +426,9 @@ window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
 
 &lt;center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/IvkSXlZ.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;color:lightblue&quot;&gt;&lt;u&gt;Sky View&lt;/u&gt;&lt;/a&gt; gets your current location and displays the sky above you.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;460&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/lpP1yvu.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;^ Glitch above the round fountain in Washington Square Park&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;font size=&quot;1.5&quot;&gt;- MIRROR TO THE SKY -&lt;/font&gt;&lt;br&gt;&lt;/center&gt;
 
-&lt;!-- //////////////+centered+////////////// --&gt;
-&lt;!-- home button --&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;!-- back button --&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
