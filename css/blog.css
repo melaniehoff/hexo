@@ -5,10 +5,10 @@ body {
     padding-left:40px;
     font-family: 'Cormorant Infant', serif;
     font-size: 1em;
-
+}
 /*    font-family: 'Open Sans', sans-serif;*/
 
-}
+
 
 
 /*.blog-footer {
@@ -60,9 +60,10 @@ body {
     display: none;
 }
 
-img, iframe {
+img, iframe, object, embed {
     width: 1000px;
     max-width: 100%;
+
 }
 
 a {
@@ -77,8 +78,10 @@ a {
 
 /*        background-color: lightblue;*/
     }
+
     iframe {
         max-height: 200px;
+        max-width: 100%;
     }
 
     .main-section {
