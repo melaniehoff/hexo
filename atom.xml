@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2016-07-08T23:01:49.000Z</updated>
+  <updated>2016-07-09T20:43:43.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -16,55 +16,125 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>FIRST SCREEN NAMES</title>
-    <link href="https://melaniehoff.github.io/FIRST-SCREEN-NAMES/"/>
-    <id>https://melaniehoff.github.io/FIRST-SCREEN-NAMES/</id>
-    <published>2016-07-08T20:18:26.000Z</published>
-    <updated>2016-07-08T23:01:49.000Z</updated>
+    <title>news</title>
+    <link href="https://melaniehoff.github.io/news/"/>
+    <id>https://melaniehoff.github.io/news/</id>
+    <published>2016-07-09T20:42:00.000Z</published>
+    <updated>2016-07-09T20:43:43.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;body background=&quot;http://i.imgur.com/xkmY1lW.jpg&quot;&gt;&lt;/body&gt;&lt;/p&gt;
-&lt;center&gt;&lt;br&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:#358A7C&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;font size=&quot;x-large&quot;&gt;&lt;strong&gt;&lt;u&gt;FIRST SCREEN NAMES&lt;/u&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/M8qcv0h.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/B6bAzAq.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/cK90xpW.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
+    <content type="html">&lt;center&gt;
 
 
 
-&lt;!-- //////////////+centered+////////////// --&gt;
-&lt;!-- main section for when post is next to sidebar --&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
 &lt;style&gt;
-.main-section {
+.main-section{
     display: flex;
     justify-content: center;
     float: none;
-    margin-left: 10px;
-    max-width: 70%;
+    margin-left: 0;
+    max-width: 100%;
     width: 100%;
 }
-u {
-    background-color: white;
-}
-a {
-    font-size: 450%;
-}
-
 .sidebar {
-    background-color: white;
+    padding-left: 0px;
+    display:none;
 
 }
 &lt;/style&gt;
 
-
-
-
 &lt;!-- back button --&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#358A7C&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;body background=&quot;http://i.imgur.com/xkmY1lW.jpg&quot;&gt;&lt;/body&gt;&lt;/p&gt;
-&lt;center&gt;&lt;br&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES
+      &lt;center&gt;
+
+
+
+
+&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
+&lt;style&gt;
+.main-section{
+    display: flex;
+    justif
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>FIRST SCREEN NAMES</title>
+    <link href="https://melaniehoff.github.io/FIRST-SCREEN-NAMES/"/>
+    <id>https://melaniehoff.github.io/FIRST-SCREEN-NAMES/</id>
+    <published>2016-07-08T20:18:26.000Z</published>
+    <updated>2016-07-09T22:57:04.000Z</updated>
+    
+    <content type="html">&lt;center&gt;&lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:white&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; FIRST SCREEN NAMES &lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:white&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;span style=&quot;font-size:0.2em&quot;&gt;^click here^&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/M8qcv0h.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/B6bAzAq.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/9cn2qbqq5/image.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;background-color:white&quot;&gt;&lt;span style=&quot;font-size:2em&quot;&gt;&lt;br&gt;“What was you first screen name and why?”&lt;br&gt;    was asked to strangers and friends using the livestreaming app Periscope.&lt;br&gt;    Their answers were recorded and placed into a simulation of AIM on windows 98.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
+
+
+
+&lt;!-- //////////////+centered+////////////// --&gt;
+&lt;!-- main section for when post is next to sidebar --&gt;
+&lt;style&gt;
+body {
+    padding: 20px;
+    padding-left:20px;
+    font-family: Arial, sans-serif;
+    font-size: 1vw;
+    background-image: url(&quot;http://i.imgur.com/xkmY1lW.jpg&quot;);
+    background-attachment: fixed;
+}
+.main-section{
+    display: flex;
+    justify-content: center;
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
+}
+a {
+    font-size: 450%;
+}
+
+.sidebar {
+    display: none;
+    padding-left: 0px;
+    background-color: white;
+
+}
+
+p {
+    background-color: #1416B2;
+    border-style: solid;
+    border-color: #dfdccd;
+    max-width: 900px;
+}
+
+
+}
+
+
+&lt;/style&gt;
+
+
+
+
+&lt;!-- back button --&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#358A7C&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;  &lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;!-- ///////////////////////////////////// --&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;center&gt;&lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:white&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; FIRST SC
     
     </summary>
     
@@ -174,7 +244,7 @@ img, iframe {
     <link href="https://melaniehoff.github.io/BODEGA-TIME-MACHINE/"/>
     <id>https://melaniehoff.github.io/BODEGA-TIME-MACHINE/</id>
     <published>2016-07-05T21:23:37.000Z</published>
-    <updated>2016-07-08T22:02:50.000Z</updated>
+    <updated>2016-07-09T23:00:15.000Z</updated>
     
     <content type="html">&lt;iframe src=&quot;http://artdelicorp.com/Homework/bodega_timemachine/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px&quot; width=&quot;800px&quot;&gt;&lt;/iframe&gt;
 
@@ -217,12 +287,12 @@ img, iframe {
     <link href="https://melaniehoff.github.io/PEPTO-BISMUTH/"/>
     <id>https://melaniehoff.github.io/PEPTO-BISMUTH/</id>
     <published>2016-07-04T00:32:21.000Z</published>
-    <updated>2016-07-08T23:04:49.000Z</updated>
+    <updated>2016-07-09T23:02:09.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/52834485?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;The process of chemically isolating bismuth from Pepto Bismol&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/r23M1oX.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/NRJyxgb.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/FAs7zg4.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/52834485?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;The process of chemically isolating bismuth from Pepto Bismol&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/csf6zvnyl/peptobismuth_icon02.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/n51hlyhhp/pepto02.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/y76kkebkd/bismuth05.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;!-- &lt;img src=&quot;http://i.imgur.com/fyKMRi7.jpg&quot;/&gt; --&gt;
 &lt;!-- //////////////+centered+////////////// --&gt;
-&lt;body style=&quot;background-color:white;&quot;&gt;
+&lt;body style=&quot;background-color:#e4e0e1;&quot;&gt;
 
 &lt;style&gt;
 .main-section{
@@ -365,30 +435,23 @@ body {
     <link href="https://melaniehoff.github.io/DECODELIA/"/>
     <id>https://melaniehoff.github.io/DECODELIA/</id>
     <published>2016-07-04T00:12:53.000Z</published>
-    <updated>2016-07-08T21:09:37.000Z</updated>
+    <updated>2016-07-09T22:57:50.000Z</updated>
     
     <content type="html">&lt;!-- &lt;body background=&quot;http://i.imgur.com/UcazPoW.jpg&quot;&gt; --&gt;
-&lt;body background=&quot;http://i.imgur.com/jQ9JLEw.jpg&quot;&gt;
-
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s32.postimg.org/d92ie5pat/image.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/WKPQufi.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/yckGxmG.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;!-- &lt;br&gt;&lt;br&gt;
-![](http://i.imgur.com/CRLzils.png) --&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s31.postimg.org/i6m92w9ij/decodelia_porn03.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/EEi28aN.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;center&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/decodelia/pjcejfcndkbnepkljbhbibkfameoelec&quot; style=&quot;color:red&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;font size=&quot;15&quot;&gt;&lt;u&gt;DOWNLOAD HERE&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;/center&gt;
-
-
-
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s32.postimg.org/d92ie5pat/image.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/WKPQufi.jpg&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/yckGxmG.jpg&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;br&gt;&lt;!-- &lt;br&gt;&lt;br&gt;
+![](http://i.imgur.com/CRLzils.png) --&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s31.postimg.org/i6m92w9ij/decodelia_porn03.gif&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/EEi28aN.gif&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/decodelia/pjcejfcndkbnepkljbhbibkfameoelec&quot; style=&quot;color:red&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;font size=&quot;15&quot;&gt;&lt;b&gt;&lt;u&gt;DOWNLOAD HERE&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
 body {
     padding: 20px;
-    padding-left:40px;
+    padding-left:20px;
     font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
-    font-size: 1em;
+    font-size: 1vw;
+    background-image: url(&quot;http://i.imgur.com/jQ9JLEw.jpg&quot;);
+    background-attachment: fixed;
 }
 .main-section{
     display: flex;
@@ -398,6 +461,7 @@ body {
     max-width: 100%;
     width: 100%;
 }
+
 .sidebar {
     padding-left: 0px;
     display:none;
@@ -408,15 +472,13 @@ body {
 &lt;!-- home button --&gt;
 &lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:red&quot;&gt;&lt;font size=&quot;10&quot;&gt;&lt;u&gt;&lt;b&gt;&amp;lt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
-&lt;!-- ///////////////////////////////////// --&gt;&lt;/body&gt;</content>
+&lt;!-- ///////////////////////////////////// --&gt;</content>
     
     <summary type="html">
     
       &lt;!-- &lt;body background=&quot;http://i.imgur.com/UcazPoW.jpg&quot;&gt; --&gt;
-&lt;body background=&quot;http://i.imgur.com/jQ9JLEw.jpg&quot;&gt;
-
-
-&lt;iframe src=&quot;https://player
+&lt;p&gt;&lt;center&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/15733708
     
     </summary>
     
