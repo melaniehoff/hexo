@@ -72,9 +72,9 @@ a {
     <link href="https://melaniehoff.github.io/FIRST-SCREEN-NAMES/"/>
     <id>https://melaniehoff.github.io/FIRST-SCREEN-NAMES/</id>
     <published>2016-07-08T20:18:26.000Z</published>
-    <updated>2016-07-10T00:59:36.000Z</updated>
+    <updated>2016-07-10T09:56:46.000Z</updated>
     
-    <content type="html">&lt;center&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:white&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FIRST SCREEN NAMES&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;&quot; style=&quot;color:white; font-size:1em&quot;&gt;^click here^&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/M8qcv0h.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/B6bAzAq.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/9cn2qbqq5/image.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;background-color:white&quot;&gt;&lt;span style=&quot;font-size:2em&quot;&gt;&lt;br&gt;“What was you first screen name and why?”&lt;br&gt;    was asked to strangers and friends using the livestreaming app Periscope.&lt;br&gt;    Their answers were recorded and placed into a simulation of AIM on windows 98.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
+    <content type="html">&lt;center&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:white&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FIRST SCREEN NAMES&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;&quot; style=&quot;color:white; font-size:1em&quot;&gt;^click here^&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/M8qcv0h.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/B6bAzAq.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/9cn2qbqq5/image.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;background-color:white&quot;&gt;&lt;span style=&quot;font-size:2em&quot;&gt;&lt;br&gt;“What was you first screen name and why?”&lt;br&gt;    was asked to strangers and friends using the livestreaming app Periscope. Their answers were recorded and placed into a simulation of AIM on windows 98.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
 
 
 
@@ -107,6 +107,11 @@ p {
     border-style: solid;
     border-color: #dfdccd;
     max-width: 900px;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
 }
 
 
