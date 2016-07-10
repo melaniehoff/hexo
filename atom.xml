@@ -74,9 +74,9 @@
     <link href="https://melaniehoff.github.io/FIRST-SCREEN-NAMES/"/>
     <id>https://melaniehoff.github.io/FIRST-SCREEN-NAMES/</id>
     <published>2016-07-08T20:18:26.000Z</published>
-    <updated>2016-07-09T22:57:04.000Z</updated>
+    <updated>2016-07-10T00:59:36.000Z</updated>
     
-    <content type="html">&lt;center&gt;&lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:white&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; FIRST SCREEN NAMES &lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:white&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;span style=&quot;font-size:0.2em&quot;&gt;^click here^&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/M8qcv0h.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/B6bAzAq.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/9cn2qbqq5/image.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;background-color:white&quot;&gt;&lt;span style=&quot;font-size:2em&quot;&gt;&lt;br&gt;“What was you first screen name and why?”&lt;br&gt;    was asked to strangers and friends using the livestreaming app Periscope.&lt;br&gt;    Their answers were recorded and placed into a simulation of AIM on windows 98.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
+    <content type="html">&lt;center&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:white&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FIRST SCREEN NAMES&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;&quot; style=&quot;color:white; font-size:1em&quot;&gt;^click here^&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/M8qcv0h.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/B6bAzAq.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/9cn2qbqq5/image.jpg&quot; style=&quot;width:900px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;background-color:white&quot;&gt;&lt;span style=&quot;font-size:2em&quot;&gt;&lt;br&gt;“What was you first screen name and why?”&lt;br&gt;    was asked to strangers and friends using the livestreaming app Periscope.&lt;br&gt;    Their answers were recorded and placed into a simulation of AIM on windows 98.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
 
 
 
@@ -103,12 +103,6 @@ a {
     font-size: 450%;
 }
 
-.sidebar {
-    display: none;
-    padding-left: 0px;
-    background-color: white;
-
-}
 
 p {
     background-color: #1416B2;
@@ -127,14 +121,14 @@ p {
 
 
 &lt;!-- back button --&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#358A7C&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;  &lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;&lt;p style=&quot;width:5%; background-color: white&quot;&gt;&lt;span style=&quot;font-size:100%&quot;&gt;&lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#008778&quot;&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;/div&gt;
 
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
     
     <summary type="html">
     
-      &lt;center&gt;&lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:white&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; FIRST SC
+      &lt;center&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;http://www.artdelicorp.com/Homework/FIRST-SCREEN-NAMES-08/&quot; style=&quot;color:white&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FIRST
     
     </summary>
     
@@ -490,20 +484,56 @@ body {
     <link href="https://melaniehoff.github.io/SKY-VIEW/"/>
     <id>https://melaniehoff.github.io/SKY-VIEW/</id>
     <published>2016-07-04T00:12:37.000Z</published>
-    <updated>2016-07-08T21:58:32.000Z</updated>
+    <updated>2016-07-10T01:48:43.000Z</updated>
     
     <content type="html">&lt;script&gt;
 
-window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
+// window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
 
 &lt;/script&gt;
 
-&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/IvkSXlZ.jpg?2&quot; style=&quot;width:500px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;color:#77C0DF&quot;&gt;&lt;font size=&quot;11&quot;&gt;&lt;font face=&quot;HelveticaNeue-Light&quot;&gt;&lt;u&gt;SKY VIEW&lt;/u&gt;&lt;/font&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;font size=&quot;5&quot;&gt;- look down to look up -&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;460&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/lpP1yvu.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;&lt;sub&gt;^ A black hole above the circular fountain in Washington Square Park&lt;/sub&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;center&gt;Sky View shows the sky above your current location.&lt;/center&gt;
+&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://s20.postimg.org/ohns1l4b1/skyview04.jpg&quot; style=&quot;border:none;max-width:70%;&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;center&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;color:#77C0DF&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;u&gt;&lt;b&gt;Sky View&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; shows the sky above your current location.&lt;/center&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/lpP1yvu.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;sub&gt;A black hole above the circular fountain in Washington Square Park&lt;/sub&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px&quot; width=&quot;800px&quot;&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;!-- main section for when post is next to sidebar --&gt;
-&lt;p&gt;&lt;style&gt;&lt;br&gt;body {&lt;br&gt;    padding: 20px;&lt;br&gt;    padding-left:40px;&lt;br&gt;    font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif;&lt;br&gt;    font-size: 1em;&lt;br&gt;}&lt;br&gt;.main-section {&lt;br&gt;    display: flex;&lt;br&gt;    justify-content: center;&lt;br&gt;    float: left;&lt;br&gt;    margin-left: 10px;&lt;br&gt;    max-width: 70%;&lt;br&gt;    width: 100%;&lt;br&gt;}&lt;/p&gt;
-&lt;p&gt;&lt;/style&gt;&lt;br&gt;&lt;!-- back button --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- //////////////+centered+////////////// --&gt;
+&lt;style&gt;
+body {
+    padding: 20px;
+    padding-left:20px;
+    background-image: url(&quot;https://s20.postimg.org/jdrwzn3t9/sky_array01.png&quot;);
+    background-attachment: fixed;
+}
+.blog-post {
+    background-color: white;
+    padding: 20px;
+}
+
+.main-section{
+    display: flex;
+    justify-content: center;
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
+}
+
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
+}
+
+&lt;/style&gt;
+
+&lt;!-- back button --&gt;
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;https://melaniehoff.github.io/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
 
@@ -514,11 +544,11 @@ window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
     
       &lt;script&gt;
 
-window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
+// window.open(&#39;https://melaniehoff.github.io/skyview/&#39;, &#39;_blank&#39;);
 
 &lt;/script&gt;
 
-&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/IvkSXlZ.
+&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://melaniehoff.githu
     
     </summary>
     
