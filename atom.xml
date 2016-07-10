@@ -140,7 +140,7 @@ p {
     <link href="https://melaniehoff.github.io/DOPPELCAM/"/>
     <id>https://melaniehoff.github.io/DOPPELCAM/</id>
     <published>2016-07-06T22:34:41.000Z</published>
-    <updated>2016-07-08T23:00:43.000Z</updated>
+    <updated>2016-07-10T07:43:38.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;body style=&quot;background-color:black;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img border=&quot;0&quot; alt=&quot;doppelcam&quot; src=&quot;https://s32.postimg.org/trmf9yctx/doppelcam_app_icon_best00.png&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; style=&quot;color:#A1A1A1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;u&gt;Doppelcam&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; &lt;font color=&quot;white&quot;&gt;is a visually-similar camera in the form of&lt;br&gt;a website and ios app.&lt;br&gt;It is a tool for decontextualizing your surroundings&lt;br&gt;and glimpsing the uncanny valley.&lt;br&gt;&lt;br&gt;A photo taken with Doppelcam&lt;br&gt;is replaced by an image pulled from the internet&lt;br&gt;that is similar to the one just taken in pixel-by-pixel value.&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;https://twitter.com/doppelcam&quot; style=&quot;color:#A1A1A1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;u&gt;@doppelcam&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#A1A1A1&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;font color=&quot;white&quot;&gt; A project by Melanie Hoff and Dhruv Mehrotra &lt;font color=&quot;#A1A1A1&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
@@ -148,7 +148,7 @@ p {
 &lt;style&gt;
 body {
     padding: 20px;
-    padding-left:40px;
+    padding-left:20px;
     font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
     font-size: 1.3em;
 }
@@ -161,7 +161,7 @@ img, iframe {
     display: flex;
     justify-content: center;
     float: none;
-    margin-left: 10px;
+    margin-left: 0px;
     max-width: 100%;
     width: 100%;
 }
@@ -324,17 +324,22 @@ img, iframe {
     <link href="https://melaniehoff.github.io/PORN-FOR-THE-BLIND/"/>
     <id>https://melaniehoff.github.io/PORN-FOR-THE-BLIND/</id>
     <published>2016-07-04T00:13:24.000Z</published>
-    <updated>2016-07-08T21:59:30.000Z</updated>
+    <updated>2016-07-10T07:27:15.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/125171722?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;563&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&quot;.5&quot; font=&quot;&quot; color=&quot;#FD88DB&quot;&gt;In collaboration with Horatio Baltz&lt;/font&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/125171722?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;563&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://pornfortheblind.org&quot; style=&quot;color:FD88DB&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;b&gt;&lt;u&gt;PornForTheBlind.org&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;font size=&quot;.5&quot; font=&quot;&quot; color=&quot;#FD88DB&quot;&gt; is a nonprofit organization dedicated to&lt;br&gt;providing detailed audio descriptions of movie clips from adult web sites.&lt;br&gt;This video uses one of the anonymously submitted audio descriptions as a script.&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&quot;#FD88DB&quot;&gt;In collaboration with Horatio Baltz&lt;/font&gt;&lt;/p&gt;
 &lt;body style=&quot;background-color:#88FFCA;&quot;&gt;
 
 &lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
+@import &#39;https://fonts.googleapis.com/css?family=Passion+One&#39;;
+
 body {
     padding: 20px;
     padding-left:40px;
+    font-family: &#39;Passion One&#39;, cursive;
+    letter-spacing: 1px;
 /*    font-family: &#39;Open Sans&#39;, sans-serif;*/
 /*    font-family: &#39;Varela Round&#39;, sans-serif;*/
 /*    font-family: &#39;Oswald&#39;, sans-serif;*/
@@ -429,13 +434,14 @@ body {
     <link href="https://melaniehoff.github.io/DECODELIA/"/>
     <id>https://melaniehoff.github.io/DECODELIA/</id>
     <published>2016-07-04T00:12:53.000Z</published>
-    <updated>2016-07-09T22:57:50.000Z</updated>
+    <updated>2016-07-10T08:00:04.000Z</updated>
     
     <content type="html">&lt;!-- &lt;body background=&quot;http://i.imgur.com/UcazPoW.jpg&quot;&gt; --&gt;
 &lt;p&gt;&lt;center&gt;&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s32.postimg.org/d92ie5pat/image.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/WKPQufi.jpg&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/yckGxmG.jpg&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;br&gt;&lt;!-- &lt;br&gt;&lt;br&gt;
-![](http://i.imgur.com/CRLzils.png) --&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s31.postimg.org/i6m92w9ij/decodelia_porn03.gif&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/EEi28aN.gif&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;background-color: white; padding:10px; width:50%; font-size:1.4em&quot;&gt;&lt;font color=&quot;red&quot;&gt;Decodelia is a Chrome extension and glasses set that uses&lt;br&gt;basic principles of color theory to render your browser’s content visible only with the use of red-tinted glasses.&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s32.postimg.org/d92ie5pat/image.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/WKPQufi.jpg&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/yckGxmG.jpg&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;br&gt;&lt;!-- &lt;br&gt;&lt;br&gt;
+![](http://i.imgur.com/CRLzils.png) --&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s31.postimg.org/i6m92w9ij/decodelia_porn03.gif&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/EEi28aN.gif&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/center&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/decodelia/pjcejfcndkbnepkljbhbibkfameoelec&quot; style=&quot;color:red&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;font size=&quot;15&quot;&gt;&lt;b&gt;&lt;u&gt;DOWNLOAD HERE&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
@@ -461,6 +467,7 @@ body {
     display:none;
 
 }
+
 &lt;/style&gt;
 
 &lt;!-- home button --&gt;
@@ -484,7 +491,7 @@ body {
     <link href="https://melaniehoff.github.io/SKY-VIEW/"/>
     <id>https://melaniehoff.github.io/SKY-VIEW/</id>
     <published>2016-07-04T00:12:37.000Z</published>
-    <updated>2016-07-10T01:56:04.000Z</updated>
+    <updated>2016-07-10T06:48:07.000Z</updated>
     
     <content type="html">&lt;script&gt;
 
