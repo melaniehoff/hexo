@@ -4,7 +4,7 @@
 body {
     padding: 20px;
     padding-left:40px;
-/*    font-family: 'Questrial', sans-serif;*/
+/*    font-family: 'Helvetica', sans-serif;*/
 /*font-family: 'Cormorant Infant', serif;*/
     font-size: 1em;
 }
@@ -90,7 +90,8 @@ a {
 
 }
 a:hover { 
-    text-decoration: line-through;
+/*    text-decoration: line-through;*/
+    color: blue;
 }
 
 

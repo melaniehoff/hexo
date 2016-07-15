@@ -124,7 +124,7 @@ body {
     <link href="https://melaniehoff.github.io/news/"/>
     <id>https://melaniehoff.github.io/news/</id>
     <published>2016-07-10T17:43:42.000Z</published>
-    <updated>2016-07-13T04:48:35.000Z</updated>
+    <updated>2016-07-15T02:48:07.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;/p&gt;&lt;p&gt;Presenting at Babycastle’s Wordhack Biennial July 23rd - &lt;u&gt;&lt;a href=&quot;https://www.facebook.com/events/1562525747385688/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.facebook.com/events/1562525747385688/&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;Interview with IEEE - &lt;u&gt;&lt;a href=&quot;https://www.facebook.com/events/1562525747385688/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.facebook.com/events/1562525747385688/&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
@@ -141,25 +141,28 @@ body {
     display: flex;
     justify-content: center;
     float: none;
-    padding-left: 55px;
     margin-left: 0;
-    max-width: 70%;
+    max-width: 100%;
     width: 100%;
 }
 a {
-    color: black;
+    color: blue;
 }
 .navlink{
     color: black;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
 }
 
 
 &lt;/style&gt;
 
 &lt;!-- back button --&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
-
+&lt;!-- &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt; --&gt;
 &lt;!-- ///////////////////////////////////// --&gt;</content>
     
     <summary type="html">
@@ -176,7 +179,7 @@ a {
     <link href="https://melaniehoff.github.io/contact/"/>
     <id>https://melaniehoff.github.io/contact/</id>
     <published>2016-07-10T17:43:29.000Z</published>
-    <updated>2016-07-13T04:49:23.000Z</updated>
+    <updated>2016-07-15T02:48:38.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;hoffmelanie@gmail.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -184,21 +187,28 @@ a {
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/Melanie_Hoff&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;twitter.com/Melanie_Hoff&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/melanieh0ff/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;instagram.com/melanieh0ff&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;br&gt;&lt;!-- main section for when post is next to sidebar --&gt;&lt;p&gt;&lt;/p&gt;
 &lt;style&gt;
-.main-section {
+.main-section{
     display: flex;
     justify-content: center;
-    float: left;
-    margin-left: 10px;
-    max-width: 70%;
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
     width: 100%;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
+}
+a {
+    color: blue;
 }
 
 &lt;/style&gt;
 
 &lt;!-- back button --&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
-
+&lt;!-- &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt; --&gt;
 &lt;!-- ///////////////////////////////////// --&gt;
 </content>
     
