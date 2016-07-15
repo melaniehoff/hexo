@@ -75,15 +75,14 @@ body {
     <link href="https://melaniehoff.github.io/SCANNERVISION/"/>
     <id>https://melaniehoff.github.io/SCANNERVISION/</id>
     <published>2016-07-10T17:44:19.000Z</published>
-    <updated>2016-07-14T02:04:03.000Z</updated>
+    <updated>2016-07-15T03:16:28.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;body style=&quot;background-color:black;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
-&lt;center&gt;
+&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/159572931?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;563&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;&lt;font color=&quot;white&quot;&gt;Police and EMS scanner recordings were used as a script to be translated into google image search results&lt;/font&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/159572931?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;563&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/p&gt;&lt;/center&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font color=&quot;white&quot;&gt;Police and EMS scanner recordings were used as a script to be translated into google image search results&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;/p&gt;
+&lt;center&gt;&lt;a href=&quot;/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;6&quot;&gt;   &amp;#8962;&lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;/news/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;6&quot;&gt;   &amp;#9786;  &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;/contact/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;5&quot;&gt;      &amp;#9825;&lt;/font&gt;&lt;/a&gt;&lt;/center&gt;
+
+&lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
 .main-section{
     display: flex;
@@ -99,20 +98,12 @@ body {
 
 }
 &lt;/style&gt;
-
-&lt;!-- back button --&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
-
-&lt;!-- ///////////////////////////////////// --&gt;
 </content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;body style=&quot;background-color:black;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
-&lt;center&gt;
-
-&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/159572931?title=0&amp;byline=0&amp;por
+&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/159572931?title=0&amp;byline=0&amp;
     
     </summary>
     
@@ -179,7 +170,7 @@ a {
     <link href="https://melaniehoff.github.io/contact/"/>
     <id>https://melaniehoff.github.io/contact/</id>
     <published>2016-07-10T17:43:29.000Z</published>
-    <updated>2016-07-15T02:48:38.000Z</updated>
+    <updated>2016-07-15T03:18:04.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;hoffmelanie@gmail.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -265,15 +256,17 @@ a {
     <link href="https://melaniehoff.github.io/SKY-VIEW/"/>
     <id>https://melaniehoff.github.io/SKY-VIEW/</id>
     <published>2016-07-10T17:42:51.000Z</published>
-    <updated>2016-07-14T17:08:35.000Z</updated>
+    <updated>2016-07-15T03:34:49.000Z</updated>
     
-    <content type="html">&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://s20.postimg.org/ohns1l4b1/skyview04.jpg&quot; style=&quot;border:none;max-width:70%;&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;center&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;u&gt;&lt;b&gt;Sky View&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; shows the sky above your current location.&lt;/center&gt;
+    <content type="html">&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://s20.postimg.org/ohns1l4b1/skyview04.jpg&quot; style=&quot;border:none;max-width:70%;&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;center&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;5&quot;&gt;&lt;u&gt;&lt;b&gt;&amp;#8594; Sky View &amp;#8592;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;shows you the sky above your current location.&lt;/center&gt;
 
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/lpP1yvu.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;sub&gt;A black hole above the circular fountain in Washington Square Park&lt;/sub&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/lpP1yvu.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;sub&gt;&lt;br&gt;A black hole above the circular fountain in Washington Square Park&lt;/sub&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;iframe src=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px&quot; width=&quot;800px&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px&quot; width=&quot;800px&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;center&gt;^ The sky above you ^&lt;/center&gt;
 
 
 
@@ -285,6 +278,7 @@ body {
     padding-left:20px;
     background-image: url(&quot;https://s20.postimg.org/jdrwzn3t9/sky_array01.png&quot;);
     background-attachment: fixed;
+    font-size: 1.5em;
 }
 .blog-post {
     background-color: white;
@@ -306,13 +300,18 @@ body {
 
 }
 
+.blog-footer {
+    display: none;
+}
+
+
+
 &lt;/style&gt;
 
 &lt;!-- back button --&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;/&quot; style=&quot;color:black&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;br&gt;    &lt;div class=&quot;blog-footer2&quot;&gt;&lt;br&gt;    &lt;center&gt;&lt;br&gt;&lt;br&gt;    &lt;a href=&quot;/&quot;&gt;&lt;font size=&quot;6&quot;&gt;&amp;#8962;&lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;/news/&quot;&gt;&lt;font size=&quot;6&quot;&gt;&amp;#9786;&lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;/contact/&quot;&gt;&lt;font size=&quot;5&quot;&gt;&amp;#9825;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;    &lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;
 
-&lt;!-- ///////////////////////////////////// --&gt;</content>
+</content>
     
     <summary type="html">
     
@@ -440,24 +439,26 @@ p {
     <link href="https://melaniehoff.github.io/DOPPELCAM/"/>
     <id>https://melaniehoff.github.io/DOPPELCAM/</id>
     <published>2016-07-10T17:41:27.000Z</published>
-    <updated>2016-07-13T05:12:49.000Z</updated>
+    <updated>2016-07-15T03:21:46.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;body style=&quot;background-color:black;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe src=&quot;https://doppel.camera&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;doppelcam&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;700px&quot; width=&quot;1500px&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;center&gt;&lt;br&gt;&lt;a href=&quot;https://doppel.camera&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;br&gt;&lt;img border=&quot;0&quot; alt=&quot;doppelcam&quot; src=&quot;https://s32.postimg.org/trmf9yctx/doppelcam_app_icon_best00.png&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;center&gt;&lt;h5&gt;&lt;a href=&quot;https://doppel.camera&quot; style=&quot;color:grey&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;u&gt;Doppelcam&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; &lt;font color=&quot;white&quot;&gt;is a visually-similar camera in the form of a website and ios app. It is a tool for decontextualizing your surroundings and glimpsing the uncanny valley. A photo taken with Doppelcam is replaced by an image pulled from the internet that is similar to the one just taken in pixel-by-pixel value.&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;https://twitter.com/doppelcam&quot; style=&quot;color:#1c9ceb&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;u&gt;@doppelcam&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;&lt;/center&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/bk5k2uh3h/image.jpg&quot; style=&quot;width:800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/pf3ulbbil/image.jpgg&quot; style=&quot;width:800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/afbhxguml/image.jpg&quot; style=&quot;width:800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/iyuvv82z1/image.jpg&quot; style=&quot;width:800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/khqa079jh/doppeldead.jpg&quot; style=&quot;width:800px;&quot;&gt;&lt;br&gt;&lt;/center&gt;
+&lt;center&gt;&lt;h5&gt;&lt;a href=&quot;https://doppel.camera&quot; style=&quot;color:blue&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;u&gt;Doppelcam&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt; &lt;font color=&quot;white&quot;&gt;is a visually-similar camera in the form of a website and ios app. It is a tool for decontextualizing your surroundings and glimpsing the uncanny valley. A photo taken with Doppelcam is replaced by an image pulled from the internet that is similar to the one just taken in pixel-by-pixel value.&lt;/font&gt;&lt;br&gt;&lt;a href=&quot;https://twitter.com/doppelcam&quot; style=&quot;color:blue&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;u&gt;@doppelcam&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;&lt;/center&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/bk5k2uh3h/image.jpg&quot; style=&quot;width:800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/pf3ulbbil/image.jpgg&quot; style=&quot;width:800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/afbhxguml/image.jpg&quot; style=&quot;width:800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/iyuvv82z1/image.jpg&quot; style=&quot;width:800px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s20.postimg.org/khqa079jh/doppeldead.jpg&quot; style=&quot;width:800px;&quot;&gt;&lt;br&gt;&lt;/center&gt;
 
 
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;&lt;font color=&quot;#A1A1A1&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;font color=&quot;white&quot; style=&quot;font-size:1.2em;&quot;&gt;  A project by Melanie Hoff and Dhruv Mehrotra &lt;font color=&quot;#A1A1A1&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/center&gt;&lt;/p&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;center&gt;&lt;font color=&quot;#A1A1A1&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;font color=&quot;white&quot; style=&quot;font-size:1em;&quot;&gt;  A project by Melanie Hoff and Dhruv Mehrotra &lt;font color=&quot;#A1A1A1&quot;&gt;&lt;b&gt;-&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div class=&quot;blog-footer&quot;&gt;&lt;br&gt;    &lt;center&gt;&lt;br&gt;&lt;br&gt;    &lt;a href=&quot;/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;6&quot;&gt;   &amp;#8962;&lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;/news/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;6&quot;&gt;   &amp;#9786;  &lt;/font&gt;&lt;/a&gt;&lt;a href=&quot;/contact/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;5&quot;&gt;      &amp;#9825;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;    &lt;/center&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
 &lt;style&gt;
 body {
     padding: 20px;
 
     padding-left:20px;
     font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
-    font-size: 1.2em;
+    font-size: 1.3em;
 }
 
 img {
@@ -487,14 +488,19 @@ h5 {
     text-align: center;
 }
 
+@media only screen and (max-width: 500px) {
+
+iframe {
+    display: none;
+}
+
+}
+
 &lt;/style&gt;
 
 &lt;!-- back button --&gt;
 &lt;!-- back button --&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;
-
-&lt;!-- ///////////////////////////////////// --&gt;</content>
+</content>
     
     <summary type="html">
     

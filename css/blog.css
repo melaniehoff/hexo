@@ -37,6 +37,18 @@ body {
 
 }
 
+.blog-footer2 {
+    display:block;
+    margin: auto;
+    bottom: 0px;
+    justify-content: center;
+    width: 100%;
+
+    padding-top: 10px;
+/*    line-height: 200%;*/
+
+}
+
 
 .navlink {
     width: 100%;
