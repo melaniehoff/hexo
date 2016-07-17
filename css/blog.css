@@ -6,7 +6,7 @@ body {
     padding-left:40px;
 /*    font-family: 'Helvetica', sans-serif;*/
 /*font-family: 'Cormorant Infant', serif;*/
-    font-size: 1em;
+    font-size: .8em;
 }
 /*font-family: 'Cormorant Infant', serif;*/
 /*    font-family: 'Open Sans', sans-serif;*/
@@ -19,16 +19,36 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    align-items: center;
+    justify-content: center;
+
+
     max-width: 90%;
-    margin: auto;
+    margin: 20px;
 
 
 
 }
 
 
+
 .blog-footer {
+    font-family: "Times New Roman", Times, serif;
+    bottom: 40px;
+    color:rgb(0, 0, 255);
+    display:block;
+    height:96px;
+    letter-spacing:1px;
+    line-height:38px;
+    position:fixed;
+    right:0px;
+    text-align:left;
+    text-decoration:none;
+    visibility:visible;
+    width:147.484px;
+    z-index:auto
+}
+
+/*.blog-footer {
     display:block;
     margin: auto;
     bottom: 0px;
@@ -38,15 +58,14 @@ body {
     padding-top: 10px;
 /*    line-height: 200%;*/
 
-}
+}*/
 
 
 .navlink {
     width: 100%;
     display:block;
-    font-size: .8em;
-    line-height: 300%;
-    margin:30px;
+    font-size: .9em;
+
 
 }
 
@@ -65,8 +84,8 @@ body {
 }
 
 .blog-header {
-/*    display: none;*/
-    margin-bottom: 40px;
+    display: fixed;
+
     font-size: 1em;
 
 }
@@ -108,6 +127,7 @@ a:hover {
     .sidebar {
         max-width: 100%;
         padding: 0px;
+        margin: 0px;
 
     }
 
@@ -124,10 +144,14 @@ a:hover {
     .navlink {
         width: 100%;
         display:block;
-        font-size: .8em;
+        font-size: .9em;
         line-height: 300%;
-        margin:20px;
+        margin:0px;
 
     }
+
+    .blog-footer {
+
+        width:50px;
 
 }

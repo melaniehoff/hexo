@@ -258,7 +258,7 @@ a {
     <link href="https://melaniehoff.github.io/SKY-VIEW/"/>
     <id>https://melaniehoff.github.io/SKY-VIEW/</id>
     <published>2016-07-10T17:42:51.000Z</published>
-    <updated>2016-07-15T05:07:31.000Z</updated>
+    <updated>2016-07-16T23:36:25.000Z</updated>
     
     <content type="html">&lt;center&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://s20.postimg.org/ohns1l4b1/skyview04.jpg&quot; style=&quot;border:none;max-width:70%;&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;center&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;5&quot;&gt;&lt;u&gt;&lt;b&gt;&amp;#8594; Sky View &amp;#8592;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;shows you the sky above your current location.&lt;/center&gt;
 
@@ -268,7 +268,7 @@ a {
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe src=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px&quot; width=&quot;800px&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;center&gt;^ The sky above you ^&lt;/center&gt;
+&lt;center&gt;^ This the sky above you, yes you!&lt;/center&gt;
 
 
 
@@ -301,13 +301,6 @@ body {
     display:none;
 
 }
-
-.blog-footer {
-    display: none;
-}
-
-
-
 &lt;/style&gt;
 
 &lt;!-- back button --&gt;
