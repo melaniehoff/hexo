@@ -213,13 +213,13 @@ a {
     <link href="https://melaniehoff.github.io/contact/"/>
     <id>https://melaniehoff.github.io/contact/</id>
     <published>2016-07-10T17:43:29.000Z</published>
-    <updated>2016-07-19T02:03:52.000Z</updated>
+    <updated>2016-08-08T20:39:29.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;hoffmelanie@gmail.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://artdelicorp.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;artdelicorp.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/Melanie_Hoff&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;twitter.com/Melanie_Hoff&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/melanieh0ff/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;instagram.com/melanieh0ff&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;I’ll be presenting at Babycastle’s Wordhack Biennial July 23rd! - &lt;u&gt;&lt;a href=&quot;http://bit.ly/29Qa6MQ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.facebook.com/events/156252/&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Interview with IEEE - &lt;u&gt;&lt;a href=&quot;http://electronics360.globalspec.com/article/6947/q-a-when-art-and-technology-merge&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://electronics360.globalspec.com/article/6947/q-a-when-art-and-technology-merge&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Presented at Babycastle’s Wordhack Biennial - &lt;u&gt;&lt;a href=&quot;http://bit.ly/29Qa6MQ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.facebook.com/events/156252/&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Interview with IEEE - &lt;u&gt;&lt;a href=&quot;http://electronics360.globalspec.com/article/6947/q-a-when-art-and-technology-merge&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://electronics360.globalspec.com/article/6947/q-a-when-art-and-technology-merge&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
 
 &lt;p&gt;Decodelia article - &lt;u&gt;&lt;a href=&quot;http://motherboard.vice.com/read/-this-screen-scrambling-tool-only-reveals-your-browser-with-special-glasses&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://motherboard.vice.com/read/-this-screen-scrambling-tool-only-reveals-your-browser-with-special-glasses&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
 
@@ -625,7 +625,7 @@ p {
     <link href="https://melaniehoff.github.io/15-000-VOLTS/"/>
     <id>https://melaniehoff.github.io/15-000-VOLTS/</id>
     <published>2016-07-10T17:41:01.000Z</published>
-    <updated>2016-07-14T16:40:34.000Z</updated>
+    <updated>2016-08-08T20:34:25.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;body style=&quot;background-color:white;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
 
@@ -649,6 +649,13 @@ p {
     max-width: 100%;
     width: 100%;
 }
+
+p {
+
+    font-size: 1em;
+
+}
+
 .sidebar {
     padding-left: 0px;
     display:none;
