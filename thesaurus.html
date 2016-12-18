@@ -3,6 +3,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script type="text/javascript">
 
+var ip_address = "107.170.164.22"
+
 $( document ).ready(function() {
     console.log( "ready!" );
     $("input:text:visible:first").focus();
@@ -19,7 +21,7 @@ var fadeOutTime = 200;
 
 //RIGHT//RIGHT//RIGHT//RIGHT//RIGHT//RIGHT//RIGHT//RIGHT//RIGHT
 
-    $.get( "http://0.0.0.0:9998/get_synonymsR?word_entry=" + word, function( data ) {
+    $.get( "http://" + ip_address + ":9998/get_synonymsR?word_entry=" + word, function( data ) {
 
 
 
@@ -66,7 +68,7 @@ var fadeOutTime = 200;
 
 
 
-    $.get( "http://0.0.0.0:9998/get_synonymsL?word_entry=" + word, function( data ) {
+    $.get( "http://" + ip_address + ":9998/get_synonymsL?word_entry=" + word, function( data ) {
 
 
 
