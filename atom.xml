@@ -334,66 +334,19 @@ body {
   </entry>
   
   <entry>
-    <title>news</title>
-    <link href="https://melaniehoff.github.io/news/"/>
-    <id>https://melaniehoff.github.io/news/</id>
-    <published>2016-07-10T17:43:42.000Z</published>
-    <updated>2016-07-15T05:35:04.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;I’ll be presenting at Babycastle’s Wordhack Biennial July 23rd! - &lt;u&gt;&lt;a href=&quot;https://www.facebook.com/events/1562525747385688/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.facebook.com/events/1562525747385688/&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Interview with IEEE - &lt;u&gt;&lt;a href=&quot;https://www.facebook.com/events/1562525747385688/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://electronics360.globalspec.com/article/6947/q-a-when-art-and-technology-merge&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Doppelcam in Alt-Ai exhibition - &lt;u&gt;&lt;a href=&quot;http://alt-ai.net/#exhibition&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://alt-ai.net/#exhibition&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;15,000 Volts solo show - &lt;u&gt;&lt;a href=&quot;http://www.visualvoicegallery.com/portfolio/past/melanie-hoff-15000-volts/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.visualvoicegallery.com/portfolio/past/melanie-hoff-15000-volts/&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Pepto bismuth in Radiolab Live - &lt;u&gt;&lt;a href=&quot;http://www.radiolab.org/live/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.radiolab.org/live/&lt;/a&gt;&lt;/u&gt; - &lt;u&gt;&lt;a href=&quot;https://www.instagram.com/p/heQoa1JD21/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.instagram.com/p/heQoa1JD21/&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
-
-&lt;!-- //////////////+centered+////////////// --&gt;
-&lt;style&gt;
-.main-section{
-    display: flex;
-    justify-content: center;
-    float: none;
-    margin-left: 0;
-    max-width: 100%;
-    width: 100%;
-}
-a {
-    color: blue;
-}
-.navlink{
-    color: black;
-}
-.sidebar {
-    padding-left: 0px;
-    display:none;
-
-}
-
-
-&lt;/style&gt;
-
-&lt;!-- back button --&gt;
-&lt;!-- &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;div class=&quot;blog-header&quot;&gt;&lt;br&gt;    &lt;a href=&quot;/&quot; style=&quot;color:#888888&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;lt;&lt;/u&gt;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt; --&gt;
-&lt;!-- ///////////////////////////////////// --&gt;</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;I’ll be presenting at Babycastle’s Wordhack Biennial July 23rd! - &lt;u&gt;&lt;a href=&quot;https://www.facebook.com/events/156252574738568
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>contact</title>
     <link href="https://melaniehoff.github.io/contact/"/>
     <id>https://melaniehoff.github.io/contact/</id>
     <published>2016-07-10T17:43:29.000Z</published>
-    <updated>2016-09-18T21:00:46.000Z</updated>
+    <updated>2016-12-29T02:54:37.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;hoffmelanie@gmail.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://artdelicorp.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;artdelicorp.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/Melanie_Hoff&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;twitter.com/melanie_hoff&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/melanieh0ff/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;instagram.com/melanieh0ff&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;I’ll speaking at Pulse Art + Technology Festival on January 12 at 2pm - &lt;u&gt;&lt;a href=&quot;http://www.telfair.org/museum-events/pulse/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.telfair.org/museum-events/pulse/&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;**&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt; &lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;**&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt; &lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;**&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt; &lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;**&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt; &lt;strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;**&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;br&gt;&lt;p&gt;Small Data Squad and ATM at the Internet Yami-ichi - &lt;u&gt;&lt;a href=&quot;http://yami-ichi.biz/ny2/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://yami-ichi.biz/ny2/&lt;/a&gt;&lt;/u&gt;&lt;br&gt;Featured in the Observer - &lt;u&gt;&lt;a href=&quot;http://observer.com/2016/11/internet-yami-ichi-nyc-2/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://observer.com/2016/11/internet-yami-ichi-nyc-2/&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Interview with IEEE - &lt;u&gt;&lt;a href=&quot;http://electronics360.globalspec.com/article/6947/q-a-when-art-and-technology-merge&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://electronics360.globalspec.com/article/6947/q-a-when-art-and-technology-merge&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
+
+
 &lt;p&gt;Presented at Babycastle’s Wordhack Biennial - &lt;u&gt;&lt;a href=&quot;http://bit.ly/29Qa6MQ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://www.facebook.com/events/156252/&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Interview with IEEE - &lt;u&gt;&lt;a href=&quot;http://electronics360.globalspec.com/article/6947/q-a-when-art-and-technology-merge&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://electronics360.globalspec.com/article/6947/q-a-when-art-and-technology-merge&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
 
 &lt;p&gt;Decodelia article - &lt;u&gt;&lt;a href=&quot;http://motherboard.vice.com/read/-this-screen-scrambling-tool-only-reveals-your-browser-with-special-glasses&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://motherboard.vice.com/read/-this-screen-scrambling-tool-only-reveals-your-browser-with-special-glasses&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
@@ -406,11 +359,16 @@ a {
     display: flex;
     justify-content: center;
     float: none;
-    max-width: 100%;
+    min-width: 250px;
+    max-width: 850px;
     width: 100%;
     margin-left: 0px;
+    word-wrap: break-word;
+}
 
+.main-content {
 
+    width:100%;
 }
 .sidebar {
     padding-left: 0px;
@@ -419,6 +377,14 @@ a {
 }
 a {
     color: blue;
+}
+
+.blog-footer {
+
+    padding: 2px;
+    margin-right: 20px;
+    width: 40px;
+
 }
 
 &lt;/style&gt;
@@ -737,10 +703,10 @@ iframe {
     <link href="https://melaniehoff.github.io/DECODELIA/"/>
     <id>https://melaniehoff.github.io/DECODELIA/</id>
     <published>2016-07-10T17:41:14.000Z</published>
-    <updated>2016-07-19T02:05:29.000Z</updated>
+    <updated>2016-12-29T02:55:46.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;center&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;900&quot; height=&quot;507&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;center&gt;&lt;p style=&quot;background-color: white; padding:10px; width:50%&quot;&gt;&lt;font color=&quot;red&quot;&gt;Decodelia is a Chrome extension and glasses set that uses basic principles of color theory to render your browser’s content visible only with the use of red-tinted glasses.&lt;/font&gt;&lt;/p&gt;&lt;/center&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;center&gt;&lt;p style=&quot;background-color: white; padding:10px; width:60%&quot;&gt;&lt;font color=&quot;red&quot;&gt;Decodelia is a Chrome extension and glasses set that uses basic principles of color theory to render your browser’s content visible only with the use of red-tinted glasses.&lt;/font&gt;&lt;/p&gt;&lt;/center&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;center&gt;&lt;br&gt;&lt;img src=&quot;https://s32.postimg.org/d92ie5pat/image.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/WKPQufi.jpg&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/yckGxmG.jpg&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;br&gt;&lt;!-- &lt;br&gt;&lt;br&gt;
 ![](http://i.imgur.com/CRLzils.png) --&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://s31.postimg.org/i6m92w9ij/decodelia_porn03.gif&quot; style=&quot;width:910px&quot; ;=&quot;&quot;&gt;&lt;/center&gt;&lt;/center&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/EEi28aN.gif&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/center&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
@@ -786,7 +752,8 @@ p {
 &lt;/style&gt;
 
 &lt;!-- home button --&gt;
-&lt;!-- ///////////////////////////////////// --&gt;</content>
+&lt;!-- ///////////////////////////////////// --&gt;
+</content>
     
     <summary type="html">
     
