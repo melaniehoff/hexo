@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2017-01-26T20:57:02.000Z</updated>
+  <updated>2017-01-31T19:41:06.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BEAUTY CONTEST</title>
+    <link href="https://melaniehoff.github.io/BEAUTY-CONTEST/"/>
+    <id>https://melaniehoff.github.io/BEAUTY-CONTEST/</id>
+    <published>2017-01-31T19:26:49.000Z</published>
+    <updated>2017-01-31T19:41:06.000Z</updated>
+    
+    <content type="html">&lt;center&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://beautycontest.melanie-hoff.com/&quot; link=&quot;&quot; &lt;=&quot;&quot; a=&quot;&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
+&lt;style&gt;
+.main-section{
+    display: flex;
+    justify-content: center;
+    float: none;
+    margin-left: 0;
+    max-width: 100%;
+    width: 100%;
+}
+.sidebar {
+    padding-left: 0px;
+    display:none;
+
+}
+&lt;/style&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;center&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://beautycontest.melanie-hoff.com/&quot; link=&quot;&quot; &lt;=&quot;&quot; a=&quot;&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>PARTISAN THESAURUS</title>
