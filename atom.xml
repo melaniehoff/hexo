@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://melaniehoff.github.io/"/>
-  <updated>2017-01-31T19:41:06.000Z</updated>
+  <updated>2017-02-01T00:54:54.000Z</updated>
   <id>https://melaniehoff.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://melaniehoff.github.io/BEAUTY-CONTEST/"/>
     <id>https://melaniehoff.github.io/BEAUTY-CONTEST/</id>
     <published>2017-01-31T19:26:49.000Z</published>
-    <updated>2017-01-31T19:41:06.000Z</updated>
+    <updated>2017-02-01T00:54:54.000Z</updated>
     
     <content type="html">&lt;center&gt;
 
@@ -40,6 +40,15 @@
     display:none;
 
 }
+
+@media only screen and (max-width: 500px) {
+
+.blog-footer {
+    height: 80px;
+}
+
+}
+
 &lt;/style&gt;
 </content>
     
@@ -60,15 +69,35 @@
     <link href="https://melaniehoff.github.io/PARTISAN-THESAURUS/"/>
     <id>https://melaniehoff.github.io/PARTISAN-THESAURUS/</id>
     <published>2017-01-26T20:57:02.000Z</published>
-    <updated>2017-01-26T20:57:02.000Z</updated>
+    <updated>2017-02-01T22:04:17.000Z</updated>
     
-    <content type="html">&lt;center&gt;
-
-
-
-
-&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;center&gt;&lt;br&gt;&lt;img id=&quot;icon&quot; src=&quot;https://s20.postimg.org/l6tn6g3wt/partisan_thesaurus_icon_round01.png&quot;&gt;&lt;br&gt;Partisan Thesaurus is a pair of thesauruses. The blue thesaurus generates synonyms using a machine learning algorithm that was trained only on a corpus of American liberal-leaning texts. The red thesaurus generates synonyms using a machine learning algorithm that was trained only on a corpus of American conservative-leaning texts.&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;br&gt;Our accumulated lived experiences shape who we are and how we perceive the world. Partisan thesaurus focuses specifically on political rhetoric from this corpus of books and transcripts. It suggests that exposure to a narrow set of perspectives alters the associations a person make with any given word.&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;br&gt;What makes meaning from a word? It’s static, entry in the dictionary or the associations we make in real-time whenever we hear or use a word. The ideas that a concept like democracy, or immigration are connected to are different for different people.&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;br&gt;There’s incredible miscommunication across political and cultural divides, how can we have real understanding if we don’t even agree on what we disagree on?&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;br&gt;I hope that partisan Thesaurus can help us to think about the differences in our frames of reference, and find a balanced way to talk about issues.&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;/p&gt;
 &lt;style&gt;
+body {
+    padding: 20px;
+    padding-left:20px;
+    font-size: 1.5em;
+    background-color: #dbdbdb;
+
+
+
+}
+.blog-post {
+    padding: 0px;
+    border-radius: 4px;
+    color: black;
+    margin: 0;
+}
+
+#icon{
+    margin-bottom: 40px;
+    width: 350px;
+}
 .main-section{
     display: flex;
     justify-content: center;
@@ -76,29 +105,39 @@
     margin-left: 0;
     max-width: 100%;
     width: 100%;
+    padding-top: 0px;
 }
+
 .sidebar {
     padding-left: 0px;
     display:none;
 
 }
+
+img {
+    width: 600px;
+    max-width: 100%;
+
+}
+
+
+@media only screen and (max-width: 500px) {
+
+.blog-footer {
+    height: 80px;
+}
+
+}
+
+
 &lt;/style&gt;
 
-
+&lt;!-- back button --&gt;
 </content>
     
     <summary type="html">
     
-      &lt;center&gt;
-
-
-
-
-&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
-&lt;style&gt;
-.main-section{
-    display: flex;
-    justif
+      &lt;p&gt;&lt;center&gt;&lt;br&gt;&lt;img id=&quot;icon&quot; src=&quot;https://s20.postimg.org/l6tn6g3wt/partisan_thesaurus_icon_round01.png&quot;&gt;&lt;br&gt;Partisan Thesaurus is a pair o
     
     </summary>
     
@@ -428,7 +467,7 @@ body {
     <link href="https://melaniehoff.github.io/contact/"/>
     <id>https://melaniehoff.github.io/contact/</id>
     <published>2016-07-10T17:43:29.000Z</published>
-    <updated>2017-01-31T19:45:30.000Z</updated>
+    <updated>2017-02-01T18:05:48.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;mailto:hoffmelanie@gmail.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;hoffmelanie@gmail.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/Melanie_Hoff&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;twitter.com/melanie_hoff&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/melanieh0ff/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;instagram.com/melanieh0ff&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://artdelicorp.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;u&gt;artdelicorp.com&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -476,13 +515,6 @@ a {
     color: blue;
 }
 
-.blog-footer {
-
-    padding: 2px;
-    margin-right: 20px;
-    width: 40px;
-
-}
 
 &lt;/style&gt;
 
@@ -543,40 +575,69 @@ a {
     <link href="https://melaniehoff.github.io/SKY-VIEW/"/>
     <id>https://melaniehoff.github.io/SKY-VIEW/</id>
     <published>2016-07-10T17:42:51.000Z</published>
-    <updated>2016-08-09T16:58:03.000Z</updated>
+    <updated>2017-02-01T20:17:18.000Z</updated>
     
-    <content type="html">&lt;center&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://s20.postimg.org/ohns1l4b1/skyview04.jpg&quot; style=&quot;border:none; width:500px;&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;center&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;5&quot;&gt;&lt;u&gt;&lt;b&gt;&amp;#8594; Sky View &amp;#8592;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;shows you the sky above your current location.&lt;/center&gt;
+    <content type="html">&lt;center&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://s20.postimg.org/ohns1l4b1/skyview04.jpg&quot; style=&quot;border:none; width:700px;&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;center&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;5&quot;&gt;&lt;u&gt;&lt;b&gt;&amp;#8594; Sky View &amp;#8592;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;iframe src=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px;&quot;&gt;&lt;/iframe&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;Sky View shows you the sky above your current location&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
 
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/center&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/lpP1yvu.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;3&quot;&gt;A black hole above the circular fountain in Washington Square Park&lt;/font&gt;&lt;/p&gt;&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px&quot; width=&quot;800px&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;^ This the sky above you, yes you!&lt;/center&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;center&gt;&lt;br&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/153836846?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;center&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/lpP1yvu.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;3&quot;&gt;A black hole above the circular fountain in Washington Square Park&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;p&gt;&lt;img src=&quot;https://s20.postimg.org/609taa9ql/blackholesucked_square.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;font size=&quot;3&quot;&gt;6 months later the black hole had become a wormhole&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+
 &lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
 body {
-    padding: 20px;
-    padding-left:20px;
-    background-image: url(&quot;https://s20.postimg.org/jdrwzn3t9/sky_array01.png&quot;);
+    background-color: white;
+    &lt;!-- background-image: url(&quot;https://s20.postimg.org/mlhfpy0ul/Screen_Shot_2017_01_31_at_7_18_50_PM.png&quot;);
     background-attachment: fixed;
+    background-size:100%; --&gt;
     font-size: 1.5em;
+    padding:0; margin:0;
+}
+
+
+
+iframe{
+    padding:0; margin:0;
+}
+
+#static-map-image {
+    width: 100%;
+}
+
+#info {
+    width: 100%;
 }
 .blog-post {
     background-color: white;
-    padding: 20px;
+    width: 100%
 }
 
 .main-section{
-    display: flex;
-    justify-content: center;
-    float: none;
-    margin-left: 0;
-    max-width: 100%;
+    all: revert;
+    margin: none;
+    margin-left: 0px;
     width: 100%;
+    padding-top: 0px;
+    max-width: 999999999px;
+    justify-content: center;
+    float:none;
+}
+
+.main-content{
+    all: revert;
+}
+
+.page-wrapper{
+    padding: none;
+    padding-top: 0px;
+
 }
 
 .sidebar {
@@ -591,16 +652,35 @@ img {
 
 }
 
-.blog-footer {
-    background-color: white;
+center {
+    padding:0; margin:0;
+}
+
+p {
+    padding:0; margin:0;
+}
+
+@media only screen and (max-width: 500px) {
+
+    iframe{
+        height:600px;
+        z-index: 10000;
+    }
+
+    #static-map-image {
+        height: 600px;
+    }
+
+    .blog-footer {
+        background-color: white;
+        border: 2px solid blue;
+    }
 }
 
 
 
 &lt;/style&gt;
-
-&lt;!-- back button --&gt;
-</content>
+&lt;/center&gt;&lt;/center&gt;</content>
     
     <summary type="html">
     
@@ -800,7 +880,7 @@ iframe {
     <link href="https://melaniehoff.github.io/DECODELIA/"/>
     <id>https://melaniehoff.github.io/DECODELIA/</id>
     <published>2016-07-10T17:41:14.000Z</published>
-    <updated>2016-12-29T02:55:46.000Z</updated>
+    <updated>2017-02-01T17:54:01.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;center&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/157337087?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;900&quot; height=&quot;507&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;center&gt;&lt;p style=&quot;background-color: white; padding:10px; width:60%&quot;&gt;&lt;font color=&quot;red&quot;&gt;Decodelia is a Chrome extension and glasses set that uses basic principles of color theory to render your browser’s content visible only with the use of red-tinted glasses.&lt;/font&gt;&lt;/p&gt;&lt;/center&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
@@ -843,13 +923,18 @@ p {
 
 .blog-footer {
     background-color: white;
+    border-radius: 4px;
+    border: solid 2px #f5383c;
 }
 
+@media only screen and (max-width: 500px) {
 
+.blog-footer {
+    height: 80px;
+}
+
+}
 &lt;/style&gt;
-
-&lt;!-- home button --&gt;
-&lt;!-- ///////////////////////////////////// --&gt;
 </content>
     
     <summary type="html">
