@@ -113,6 +113,10 @@ a:hover {
 
     }
 
+    iframe {
+        max-height: 200px;
+        max-width: 100%;
+    }
 
     .main-section {
         margin-left: 2px;

@@ -149,12 +149,12 @@ img {
     <link href="https://melaniehoff.github.io/2008/"/>
     <id>https://melaniehoff.github.io/2008/</id>
     <published>2016-09-13T06:35:14.000Z</published>
-    <updated>2016-09-18T20:46:07.000Z</updated>
+    <updated>2017-02-01T22:07:43.000Z</updated>
     
     <content type="html">
 &lt;center&gt;
     &lt;a href=&quot;/smush&quot; style=&quot;color:blue&quot;&gt;
-        &lt;font size=&quot;4px&quot;&gt;MELANIE HOFF [2007]&lt;/font&gt;&lt;/a&gt;
+        &lt;font size=&quot;4px&quot;&gt;MELANIE HOFF: Portfolio 2005-2008&lt;/font&gt;&lt;/a&gt;
     
 &lt;/center&gt;
 
@@ -263,12 +263,12 @@ img {
       
 &lt;center&gt;
     &lt;a href=&quot;/smush&quot; style=&quot;color:blue&quot;&gt;
-        &lt;font size=&quot;4px&quot;&gt;MELANIE HOFF [2007]&lt;/font&gt;&lt;/a&gt;
+        &lt;font size=&quot;4px&quot;&gt;MELANIE HOFF: Portfolio 2005-2008&lt;/font&gt;&lt;/a&gt;
     
 &lt;/center&gt;
 
 
-&lt;div class=&quot;wayb
+&lt;d
     
     </summary>
     
@@ -575,7 +575,7 @@ a {
     <link href="https://melaniehoff.github.io/SKY-VIEW/"/>
     <id>https://melaniehoff.github.io/SKY-VIEW/</id>
     <published>2016-07-10T17:42:51.000Z</published>
-    <updated>2017-02-01T20:17:18.000Z</updated>
+    <updated>2017-02-02T03:56:00.000Z</updated>
     
     <content type="html">&lt;center&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://s20.postimg.org/ohns1l4b1/skyview04.jpg&quot; style=&quot;border:none; width:700px;&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;center&gt;&lt;a href=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;color:blue&quot;&gt;&lt;font size=&quot;5&quot;&gt;&lt;u&gt;&lt;b&gt;&amp;#8594; Sky View &amp;#8592;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;/center&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;&lt;iframe src=&quot;https://melaniehoff.github.io/skyview/&quot; style=&quot;border:0px #FFFFFF none;&quot; name=&quot;bodegatimemachine&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; marginheight=&quot;0px&quot; marginwidth=&quot;0px&quot; height=&quot;800px;&quot;&gt;&lt;/iframe&gt;&lt;br&gt;&lt;center&gt;&lt;br&gt;Sky View shows you the sky above your current location&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;
 
@@ -665,6 +665,7 @@ p {
     iframe{
         height:600px;
         z-index: 10000;
+        max-height: 600px;
     }
 
     #static-map-image {
@@ -951,21 +952,26 @@ p {
     <link href="https://melaniehoff.github.io/15-000-VOLTS/"/>
     <id>https://melaniehoff.github.io/15-000-VOLTS/</id>
     <published>2016-07-10T17:41:01.000Z</published>
-    <updated>2016-08-08T20:34:25.000Z</updated>
+    <updated>2017-02-02T04:21:02.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;body style=&quot;background-color:white;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;center&gt;&lt;h1&gt;15,000 Volts&lt;/h1&gt;&lt;br&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;body style=&quot;background-color:white;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/60814695?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/192Aa1d.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/60814695?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/192Aa1d.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;h1&gt;Path of Least Resistance&lt;/h1&gt;&lt;br&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/137288470?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;1000&quot; height=&quot;570&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;p id=&quot;stuff&quot;&gt;15,000 volts of current complete a circuit through the surface of wood by navigating around non-conductive barriers&lt;/p&gt;&lt;/center&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;hr&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://i.imgur.com/GPxIHOF.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/Y9Dja0E.jpg&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://i.imgur.com/GPxIHOF.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/MgegYFs.jpg&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://i.imgur.com/GPxIHOF.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/Y9Dja0E.jpg&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http://i.imgur.com/GPxIHOF.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;img src=&quot;http://i.imgur.com/MgegYFs.jpg&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/GPxIHOF.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;hr&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/rwXmh3q.jpg&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;^ a commissioned collaboration guitar with Fender &lt;/p&gt;&lt;br&gt;&lt;!-- &lt;br&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;Commissioned artist collaboration guitar with Fender &lt;/p&gt;&lt;br&gt;&lt;!-- &lt;br&gt;
 &lt;img src=&quot;http://i.imgur.com/Y9Dja0E.jpg&quot;&gt;
 &lt;br&gt;
 &lt;img src=&quot;http://i.imgur.com/MgegYFs.jpg&quot;&gt;
- --&gt;&lt;br&gt;&lt;!-- //////////////+centered+////////////// --&gt;&lt;p&gt;&lt;/p&gt;
+ --&gt;&lt;p&gt;&lt;/p&gt;
+&lt;!-- //////////////+centered+////////////// --&gt;
 &lt;style&gt;
 .main-section{
     display: flex;
@@ -976,10 +982,18 @@ p {
     width: 100%;
 }
 
-p {
+.blog-post{
+    justify-content: center;
+    text-align: center;
+}
 
+p {
     font-size: 1em;
 
+}
+
+#stuff{
+    max-width: 80%;
 }
 
 .sidebar {
@@ -989,17 +1003,14 @@ p {
 }
 
 &lt;/style&gt;
-
-
-
-
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;body style=&quot;background-color:white;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;center&gt;&lt;h1&gt;15,000 Volts&lt;/h1&gt;&lt;br&gt;&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;&lt;body style=&quot;background-color:white;&quot;&gt;&lt;/body&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/60814695?title=0&amp;byline=0&amp;portra
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;iframe src=&quot;https://playe
     
     </summary>
     
