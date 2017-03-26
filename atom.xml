@@ -465,7 +465,7 @@ body {
     <link href="https://melaniehoff.github.io/about/"/>
     <id>https://melaniehoff.github.io/about/</id>
     <published>2016-07-10T17:43:29.000Z</published>
-    <updated>2017-03-26T03:06:56.000Z</updated>
+    <updated>2017-03-26T03:35:30.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;a id=&quot;title&quot;&gt;Melanie Hoff&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p id=&quot;statement&quot;&gt;&lt;br&gt;My practice is research-based and site-specific. I use technology and computation to play with systems that mediate and control society and believe in installation that moves away from art-contexts and into the processes of everyday life. My work investigates conventions, language, and the ways in which representation actively shapes our interactions and consciousness.&lt;/p&gt;
@@ -497,6 +497,11 @@ body {
 &lt;!-- //////////////+centered+////////////// --&gt;
 &lt;!-- main section for when post is next to sidebar --&gt;
 &lt;style&gt;
+
+.body {
+    font-size:1.1em;
+}
+
 .main-section{
     display: flex;
     justify-content: center;
