@@ -5,10 +5,10 @@
 body {
     padding: 20px;
     padding-left:40px;
-    font-family: 'Rubik', sans-serif;
-/*    font-family: 'Helvetica', sans-serif;*/
+    /*font-family: 'Rubik', sans-serif;*/
+    font-family: 'Helvetica', sans-serif;
 /*font-family: 'Cormorant Infant', serif;*/
-    font-size: 1.2em;
+    font-size: 1.5em;
     letter-spacing: 1px;
 }
 
@@ -25,10 +25,10 @@ body {
 }
 
 .blog-footer {
-    margin-right: 10px;
-    width: 40px;
-    height: 80px;
-    bottom: 40px;
+    margin-right: 18px;
+    width: 50px;
+    height: 100px;
+    bottom: 20px;
     display:block;
     position:fixed;
     right:0px;
@@ -110,6 +110,7 @@ a:hover {
     .sidebar {
         max-width: 100%;
         margin: 0px;
+        padding-top: 0px;
 
     }
 
