@@ -8,7 +8,7 @@ body {
     /*font-family: 'Rubik', sans-serif;*/
     font-family: 'Helvetica', sans-serif;
 /*font-family: 'Cormorant Infant', serif;*/
-    font-size: 1.5em;
+    font-size: 1.2em;
     letter-spacing: 1px;
 }
 
@@ -32,10 +32,10 @@ body {
 }
 
 .blog-footer {
-    margin-right: 18px;
-    width: 50px;
-    height: 100px;
-    bottom: 20px;
+    margin-right: 19px;
+    width: 40px;
+    height: 80px;
+    bottom: 19px;
     display:block;
     position:fixed;
     right:0px;
