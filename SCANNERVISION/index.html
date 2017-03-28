@@ -50,7 +50,7 @@
 
 <center><a href="http://partisanthesaurus.com/" class="navlink"><img src="https://melanie-hoff.com/_images/partisanthesaurus.jpg" class="icon"><br>Partisan Thesaurus</a></center>
 
-<!-- <center><a href="/small-data-squad/" class="navlink"><img src="https://melanie-hoff.com/_images/doppelcam.jpg" class="icon"><br>Small Data Squad</a></center> -->
+<center><a href="https://melanie-hoff.com/sds" class="navlink"><img src="https://melanie-hoff.com/_images/sds_icon_small.png" class="icon"><br>Small Data Squad</a></center>
 
 <center><a href="/DOPPELCAM/" class="navlink"><img src="https://melanie-hoff.com/_images/doppelcam.jpg" class="icon"><br>Doppelcam</a></center>
 
@@ -131,14 +131,25 @@ body {
     text-align: -webkit-center;
     height: 40px;
     width: 100%;
-    color: blue;
+    color: #1a1afa;
     font-size: 1.5em;
     margin-top: 29px;
     margin-bottom: 29px;
+    padding-top: 8px;
 }
 
 #title:hover {
-    color: black;
+    /*color: black;*/
+
+text-decoration: none;
+color: #22f;
+background: #1a1afa;
+background: -webkit-linear-gradient(to right, #dee2e1, #1a1afa);
+background: -o-linear-gradient(to right, #dee2e1, #1a1afa);
+background: -moz-linear-gradient(to right, #dee2e1, #1a1afa);
+background: linear-gradient(to right, #dee2e1, #1a1afa);
+-webkit-transition: color 0.5s;
+transition: color 0.5s;
     /*text-shadow: 3px 0px 11px rgba(150, 150, 150, 1);*/
 }
 
@@ -162,6 +173,8 @@ body {
 }
 
 .icon:hover {
+    -webkit-filter: none; /* Safari 6.0 - 9.0 */
+    filter: none;
 
 }
 
@@ -177,8 +190,8 @@ body {
     width: 100%;
     display:block;
     font-size: 1.2em;
-    border-left: 3px solid blue;
-    border-bottom: 3px solid blue;
+    border-left: 3px solid #1a1afa;
+    border-bottom: 3px solid #1a1afa;
     padding-bottom: 15px;
   }
 
@@ -188,8 +201,8 @@ body {
 
   .navlink.bottommost {
     border-bottom: none !important;
-    /*border-left: 3px solid blue !important;
-    border-right: 3px solid blue !important;*/
+    /*border-left: 3px solid #1a1afa !important;
+    border-right: 3px solid #1a1afa !important;*/
   }
 
   .social {
@@ -241,9 +254,12 @@ body {
   }
 
   .navlink.bottommost {
-    border-bottom: 3px solid blue !important;
+    border-bottom: 3px solid #1a1afa !important;
     /*border-left: none !important;
     border-right:none !important;*/
+  }
+  .navlink.leftmost {
+      border-left: none !important;
   }
 
 

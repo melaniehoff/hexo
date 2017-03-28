@@ -42,7 +42,7 @@ body {
     width: 100%;
     display:block;
     font-size: .9em;
-    color:blue;
+    color:#1a1afa;
 }
 
 
@@ -51,12 +51,6 @@ body {
     margin-left: 100px;
     max-width: 900px;
     width: 60%;
-}
-
-.page-wrapper:after {
-  content: "";
-  clear: both;
-  display: none;
 }
 
 .blog-header {
@@ -86,14 +80,14 @@ a {
 }
 a:hover {
 /*    text-decoration: line-through;*/
-    color: blue;
+    color: #1a1afa;
     cursor: pointer;
     z-index: 2147483646;
 }
 
 .navlink:hover {
 /*    text-decoration: line-through;*/
-    color: black;
+    /*color: black;*/
     cursor: pointer;
     z-index: 2147483646;
 }
@@ -103,7 +97,7 @@ a:hover {
     body {
         padding: 10px;
 
-/*        background-color: lightblue;*/
+/*        background-color: light#1a1afa;*/
     }
 
     .sidebar {
