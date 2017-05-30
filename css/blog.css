@@ -5,9 +5,11 @@
 body {
     padding: 20px;
     padding-left:40px;
-    /*font-family: 'Rubik', sans-serif;*/
-    font-family: 'Helvetica', sans-serif;
-/*font-family: 'Cormorant Infant', serif;*/
+    font-family: 'Times New Roman', times, serif;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 1.25em;
+    letter-spacing: .25px;
     font-size: 1.2em;
     letter-spacing: 1px;
 }
@@ -42,7 +44,7 @@ body {
     width: 100%;
     display:block;
     font-size: .9em;
-    color:#1a1afa;
+    color:#000000;
 }
 
 
@@ -80,7 +82,8 @@ a {
 }
 a:hover {
 /*    text-decoration: line-through;*/
-    color: #1a1afa;
+    /*color: #1a1afa;*/
+    text-decoration:underline;
     cursor: pointer;
     z-index: 2147483646;
 }
